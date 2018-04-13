@@ -9,6 +9,17 @@ A brief outline of this training - just two or three sentences to describe the s
 
 > "In this session we'll learn about content management, how data is stored and presented to users. We’ll also learn about how access and workflow can be controlled and how a sensible system for storing data allows us more freedom with it's access and display."
 
+## Outcomes
+
+A list of achievements or evidence the learner will have after completing this session
+
+**For Example:**
+
+At the end of this training you will be able to:
+
+1. Deploy a Drupal site from your local development environment to a hosted server
+2. Update DNS records to point to a specific hosting provider or IP address
+3. Use cpanel to create a MySQL database and users with appropriate permissions
 ## Requirements
 
 Provide an outline of anything necessary or nice to have to participate in or deliver this training.
@@ -27,18 +38,6 @@ Provide an outline of anything necessary or nice to have to participate in or de
 1. Flip chart or white board
 2. Post it notes (100 per team of 5)
 3. WiFi Internet access
-
-## Outcomes
-
-A list of achievements or evidence the learner will have after completing this session
-
-**For Example:**
-
-At the end of this training you will be able to:
-
-1. Deploy a Drupal site from your local development environment to a hosted server
-2. Update DNS records to point to a specific hosting provider or IP address
-3. Use cpanel to create a MySQL database and users with appropriate permissions
 
 ## Main Points
 
@@ -67,13 +66,23 @@ Provide an outline of the main topics and areas to be discussed.
 
 Description of any tasks set as a result of this training linking to the task in this repo for full details.
 
+<<<<<<< HEAD:reference/lesson_plan _example.md
+### During Training
+1. [Title of First Task](#) - Description of first task in brief
+2. [Title of Second Task](#) - Description of second task in brief
+
+### After Training
+=======
 ### During Session
 1. [Title of First Task](#) - Description of first task in brief
 2. [Title of Second Task](#) - Description of second task in brief
 
 ### After Session
+>>>>>>> update-lesson-plan-template:reference/lesson_plan _template.md
 1. [Title of First Task](#) - Description of first task in brief
 2. [Title of Second Task](#) - Description of second task in brief
+3. Blog Post: Title or gist of post
+4. Diagram: Title or gist of diagram
 
 ## Resources / Reference
 
