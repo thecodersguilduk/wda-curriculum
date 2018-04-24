@@ -1,4 +1,4 @@
-# Lesson Plan Template
+# Flat File (Static Site) Generators
 Last reviewed **23 April 2018** by **Crispin Read**
 
 ## Description
