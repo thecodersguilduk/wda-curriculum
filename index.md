@@ -4,4 +4,4 @@
 
 
 
-[Flat File Generators!](/lessons/flat-file-generators)
+[Flat File Generators!](mongy352.github.io/curriculum/lessons/flat-file-generators)
