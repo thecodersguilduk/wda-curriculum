@@ -1,8 +1,8 @@
-# Agile theory and Practice
+# Content Management and Information Architecture
 Last reviewed **30 April 2018** by **Crispin Read**
 
 ## Description
-In this session we will be talking about Agile. We'll learn about the theory behind agile as well as common practical applications of agile practise in the workflow - in particular SCRUM and Kanban.
+In this session we'll learn about content management, how data is stored and presented to users, how access and workflow can be controlled and how a sensible system for storing data allows us more freedom with it's access and display.
 
 ## Outcomes
 

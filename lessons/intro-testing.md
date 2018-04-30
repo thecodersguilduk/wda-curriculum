@@ -1,8 +1,8 @@
-# Agile theory and Practice
+# Introduction to Testing
 Last reviewed **30 April 2018** by **Crispin Read**
 
 ## Description
-In this session we will be talking about Agile. We'll learn about the theory behind agile as well as common practical applications of agile practise in the workflow - in particular SCRUM and Kanban.
+A general introduction to testing for web development. We'll be looking at what different sorts of testing there are, why we test, what we test and how we test. 
 
 ## Outcomes
 

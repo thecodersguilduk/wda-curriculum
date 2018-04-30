@@ -1,9 +1,8 @@
-# Agile theory and Practice
+# User Driven Development
 Last reviewed **30 April 2018** by **Crispin Read**
 
 ## Description
-In this session we will be talking about Agile. We'll learn about the theory behind agile as well as common practical applications of agile practise in the workflow - in particular SCRUM and Kanban.
-
+User driven development (UDD or User-Centered Design) is not really a set of methodologies but a philosophy or paradigm that a development team can follow. We'll take a look at some UX principles that can positively influence and guide our decisions as developers.
 ## Outcomes
 
 At the end of this training you will be able to:

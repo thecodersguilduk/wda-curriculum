@@ -1,8 +1,7 @@
-# Agile theory and Practice
+# Impact Mapping
 Last reviewed **30 April 2018** by **Crispin Read**
 
 ## Description
-In this session we will be talking about Agile. We'll learn about the theory behind agile as well as common practical applications of agile practise in the workflow - in particular SCRUM and Kanban.
 
 ## Outcomes
 
