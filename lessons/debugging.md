@@ -8,7 +8,7 @@ We'll be taking a look at some of the strategies and tools that can make debuggi
 
 At the end of this training you will be able to:
 1. Understand best practise for debugging
-2. Use DevTools to debug JavaScript
+2. Use DevTools to debug
 3. Use the browser to identify and work through issues
 
 ## Requirements
@@ -29,7 +29,6 @@ At the end of this training you will be able to:
 3.
 
 ## Outline
-
 
 1. What is Debugging?
 2. Demo: Creating and Verifying Backups
