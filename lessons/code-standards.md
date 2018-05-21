@@ -47,7 +47,6 @@ At the end of this training you will be able to:
 ## Resources / Reference
 
 1. [Intro Slides on Google Drive](https://docs.google.com/presentation/d/1RKtd2ZIZhJNSgRF75_KJ3CvJFBhwscHJSX4bOa2pulw/edit?usp=sharing)
-2. [Demo on YouTube](#)
 3. [Drupal Coding Standards](https://www.drupal.org/docs/develop/standards/coding-standards)
 4. [PAReview] (https://pareview.sh/) 
 5. [Install coder] (https://www.zoocha.com/news/setting-drupal-code-sniffer)
