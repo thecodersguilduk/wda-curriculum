@@ -15,9 +15,9 @@ At the end of this training you will be able to:
 
 ## Learner Requirements
 
-1. 
-2.
-3.
+1. Working local dev enviroment (preferably DDEV)
+2. IDE (preferably atom)
+3. Installed : composer, docker, docker-compose 
 
 
 ## Outline
@@ -31,7 +31,9 @@ At the end of this training you will be able to:
 7. Individual task: Rewrite Code to Standard
 
 ## Tasks
-1. Download lib/backup_migrate_core/src/Main/BackupMigrate.php from the backup and migrate drupal 8 and manually check the file for errors. 
+1. Download: 
+lib/backup_migrate_core/src/Main/BackupMigrate.php & /src/Config/DrupalConfigHelper.php 
+From the backup and migrate drupal 8 and manually check the file for errors. 
 2. Install coder locally (if possible)
 
 ### During Training
