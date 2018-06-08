@@ -1,8 +1,10 @@
-# Flat File (Static Site) Generators
-Last reviewed **23 April 2018** by **Crispin Read**
+# Lesson Plan Template
+Last reviewed **08 June 2018** by **Crispin Read**
 
 ## Description
 In this session we'll look at an alternative to database content management, flat file or static site generation. Although not new, this method has gained a good deal of traction in recent years. We'll look at the pros and cons of building sites in this way and have a go at some of the most common frameworks.
+### Why is this important
+Recently flat file generators have been picking up a lot of traction and in some use cases replacing content managed solutions. GitHub pages for example is almost the de-facto solution for project documentation for GitHub based projects. Personal sites and slides also fit really well into this format.
 
 ## Outcomes
 
@@ -16,12 +18,6 @@ At the end of this training you will be able to:
 ### Learner
 1. GitHub Account
 2. Knowledge of dynamic sites
-
-### Venue
-1. Internet access
-
-### Trainer
-1. Working knowledge of Jekyll and Hugo
 
 ## Outline
 
