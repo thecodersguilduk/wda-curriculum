@@ -26,7 +26,12 @@ Day 1:
 2. Why learn JavaScript?
 3. Discussion: how much JS have ppl done / how much in the workplace
 4. What is React / Why should we use it?
-5. 1 hour task: set up project, run locally, make a couple of small changes
+5. 1 hour task: set up project, run locally, make a couple of small changes, one of these ideas:
+    - Tic tac toe game
+    - Meme generator
+    - A chat room app
+    - A habit tracker
+    - A chess game
 6. Discussion / Q&A about this
 
 Day 2:
