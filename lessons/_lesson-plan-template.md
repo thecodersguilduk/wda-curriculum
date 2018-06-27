@@ -34,11 +34,11 @@ At the end of this training you will be able to:
 
 ### During Training
 1.
-2.
+1.
 
 ### After Training
 1.
-1.
+1.  
 1.
 
 ### Extra
@@ -47,4 +47,4 @@ At the end of this training you will be able to:
 ## Resources / Reference
 
 1. [Intro Slides on Google Drive](#)
-2. [Demo on YouTube](#)
+1. [Demo on YouTube](#)
