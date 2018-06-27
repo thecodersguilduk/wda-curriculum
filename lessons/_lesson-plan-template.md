@@ -1,33 +1,34 @@
 # Lesson Plan Template
-Last reviewed **30 April 2018** by **Crispin Read**
+Last reviewed **27 June 2018** by **Crispin Read**
 
 ## Description
+
+### Why this is important
 
 
 ## Outcomes
 
 At the end of this training you will be able to:
 1.
-2.
-3.
+1.
+1.
 
 ## Learner Requirements
 
 1.
-2.
-3.
+1.
+1.
 
 
 ## Outline
 
 1.
-2.
-3.
+1.
     -
     -
     -
-4.
-5.
+1.
+1.
 
 ## Tasks
 
@@ -37,9 +38,11 @@ At the end of this training you will be able to:
 
 ### After Training
 1.
-2.
-3.
-4.
+1.
+1.
+
+### Extra
+
 
 ## Resources / Reference
 
