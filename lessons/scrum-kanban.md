@@ -1,7 +1,8 @@
-# Lesson Plan Template
+# SCRUM and Kanban
 Last reviewed **27 June 2018** by **Crispin Read**
 
 ## Description
+We'll take a look at two of the most popular agile frameworks used in web development.
 
 ### Why this is important
 

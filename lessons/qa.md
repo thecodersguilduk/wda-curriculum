@@ -1,7 +1,8 @@
-# Lesson Plan Template
+# Quality Assurance
 Last reviewed **27 June 2018** by **Crispin Read**
 
 ## Description
+How do we know when something is 'done'? Who decides what is 'good enough' to ship?
 
 ### Why this is important
 

@@ -1,4 +1,4 @@
-# Lesson Plan Template
+# CSS Pre-Processing and Front End Build Tools
 Last reviewed **27 June 2018** by **Crispin Read**
 
 ## Description

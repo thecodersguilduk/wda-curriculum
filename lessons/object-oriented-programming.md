@@ -1,4 +1,4 @@
-# Lesson Plan Template
+# Object Oriented Programming
 Last reviewed **27 June 2018** by **Crispin Read**
 
 ## Description

@@ -1,7 +1,8 @@
-# Lesson Plan Template
+# Deployment 2
 Last reviewed **27 June 2018** by **Crispin Read**
 
 ## Description
+In this session we'll look at more deployment, using web-hooks to automatically deploy from a branch and linking different branches to different environments.
 
 ### Why this is important
 
