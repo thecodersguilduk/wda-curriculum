@@ -5,7 +5,7 @@ Last reviewed **9 July 2018** by **Crispin Read**
 We'll take a look at two of the most popular agile frameworks used in web development.
 
 ### Why this is important
-
+Most teams use takeouts and methods form these two frameworks. It is important to understand how they work independently and the pros and cons of each.
 
 ## Outcomes
 
