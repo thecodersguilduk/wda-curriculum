@@ -1,5 +1,5 @@
-# Lesson Plan Template
-Last reviewed **24 April 2018** by **Crispin Read**
+# Debugging
+Last reviewed **10 July 2018** by **Crispin Read**
 
 ## Description
 We'll be taking a look at some of the strategies and tools that can make debugging easier - more productive, and less painful. While it is tempting to dive straight into the techniques, exploring the best ways to debug provides a stronger understanding and will enable you to be quicker at fixing issues in the future.   
@@ -8,57 +8,45 @@ We'll be taking a look at some of the strategies and tools that can make debuggi
 
 At the end of this training you will be able to:
 1. Understand best practise for debugging
-2. Use DevTools to debug
-3. Use the browser to identify and work through issues
+1. Use DevTools to debug
+1. Use the browser to identify and work through issues
 
 ## Requirements
 
 ### Learner
-1.
-2.
-3.
-
-### Venue
-1.
-2.
-3.
-
-### Trainer
-1.
-2.
-3.
+1. Basic understanding of HTML, CSS, PHP
 
 ## Outline
 
 1. What is Debugging?
-2. Demo: Creating and Verifying Backups
-3. Creating a logical plan
+1. Demo: Creating and Verifying Backups
+1. Creating a logical plan
     - What changed?
     - Reproduce
     - Isolate
     - Resolve
-4. Tools
-5. Dedicated Environments
-6. Server Config
-7. Server Logs
-8. Demo/Tutorial: PHP specifics
-9. Best Practise Policies
-9. Demo/Tutorial: JavaScript Debugging with Google DevTools
-10. In Browser debugging with inspector
-11. Task: Check your company website with inspector
-12. Task: Form to report bugs
+1. Tools
+1. Dedicated Environments
+1. Server Config
+1. Server Logs
+1. Demo/Tutorial: PHP specifics
+1. Best Practise Policies
+1. Demo/Tutorial: JavaScript Debugging with Google DevTools
+1. In Browser debugging with inspector
+1. Task: Check your company website with inspector
+1. Task: Form to report bugs
 
 ## Tasks
 
 ### During Training
 1. Check your company website with inspector
-2. Check your blog with inspector
+1. Check your blog with inspector
 
 ### After Training
 1. Form to report bugs on your blog site
-2. Debug your blog
-3. Create a best practise doc
-4. Create a flow chart to illustrate your debugging process
+1. Debug your blog
+1. Create a best practise doc
+1. Create a flow chart to illustrate your debugging process
 
 ## Resources / Reference
 
