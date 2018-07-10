@@ -1,8 +1,8 @@
 # Deployment 2
-Last reviewed **9 July 2018** by **Crispin Read**
+Last reviewed **10 July 2018** by **Crispin Read**
 
 ## Description
-In this session we'll look at more deployment, using web-hooks to automatically deploy from a branch and linking different branches to different environments.
+In this session we'll look at more deployment, using web-hooks to automatically deploy from a branch and linking different branches to different environments. We'll also look at
 
 ### Why this is important
 
@@ -20,16 +20,28 @@ At the end of this training you will be able to:
 
 
 ## Outline
-
+### Automation with Webhooks
 1. Automating deployment
 1. Webhooks - how it works
 1. Pros and cons
-1. Demo: Webhooks with GitHub for deployment  
+1. Demo: Webhooks with GitHub for deployment
+1. Activity: Set up autodeployment with webhook
+### Docker
+1. What is docker?
+1. What are containers?
+1. Why/when should we use them?
+1. Terminology
+1. Webapps with Docker
+  1. Static Sites
+  1. Docker Images
+  1. Activity: Our First Image
+  1. Dockerfile
+  1. Docker on AWS
 
 ## Tasks
 
 ### During Training
-1. Set up auto deployment using **Dev**, **Test** and **Master** branches
+1. Set up auto deployment using **Dev**, **Test** or **Master** branch
 
 ### After Training
 1. Set up auto deployment for one branch of your project
