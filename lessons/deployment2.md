@@ -2,7 +2,7 @@
 Last reviewed **10 July 2018** by **Crispin Read**
 
 ## Description
-In this session we'll look at more deployment, using web-hooks to automatically deploy from a branch and linking different branches to different environments. We'll also look at
+In this session we'll look at more deployment, using web-hooks to automatically deploy from a branch and linking different branches to different environments. We'll also look at container based sysytems in particular Docker.
 
 ### Why this is important
 
