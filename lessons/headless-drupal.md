@@ -16,7 +16,7 @@ At the end of this training you will be able to:
 ## Learner Requirements
 
 1. Understanding of React.js
-1. Understanding and experience of Drupal instalation and site building
+1. Understanding and experience of Drupal installation and site building
 
 
 ## Outline
