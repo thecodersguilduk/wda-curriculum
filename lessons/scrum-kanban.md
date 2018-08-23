@@ -1,5 +1,5 @@
 # SCRUM and Kanban
-Last reviewed **9 July 2018** by **Crispin Read**
+Last reviewed **23 Aug 2018** by **Crispin Read**
 
 ## Description
 We'll take a look at two of the most popular agile frameworks used in web development.
@@ -31,11 +31,14 @@ At the end of this training you will be able to:
 1. Plan and build Lego Citadel to project brief
 
 ### After Training
-1. Use agile planning to create a plan for you project
-
-### Extra
-
+1. Use agile planning to create a plan for your project
 
 ## Resources / Reference
 
-1. [Intro Slides on Google Drive](#)
+1. [Session Slides on Google Drive](https://docs.google.com/presentation/d/144OOd--vU6GLMW-tHyAQhys_CfrMekW2ukTANby1K1k/edit#slide=id.g3fe5fa2066_0_9)
+1. [3 Differences between Scrum and Kanban](https://www.cprime.com/2015/02/3-differences-between-scrum-and-kanban-you-need-to-know/)
+1. [Deffinition of done](https://manifesto.co.uk/definition-done/)
+1. [INVEST acronym - Creating a good user story](https://www.agilealliance.org/glossary/invest)
+1. [Scrum framework and glossary](https://www.scrum.org/resources/what-is-scrum)
+1. [Quick Guide to Scrum Methodology](https://www.projectmanager.com/blog/scrum-methodology)
+1. [Scrum with Trello](https://blog.trello.com/beginners-guide-scrum-and-agile-project-management)
