@@ -1,5 +1,5 @@
 # OOUX and Object Mapping
-Last reviewed **9 July 2018** by **Crispin Read**
+Last reviewed **28 Aug 2018** by **Crispin Read**
 
 ## Description
 This session is about the connections between what we do as developers and what we do as UX practitioners. Specifically it is about the impact on UX that we can have as developers. 'Object Mapping' is a discovery technique
@@ -29,17 +29,16 @@ At the end of this training you will be able to:
 ## Tasks
 
 ### During Training
-1. Object Mapping
+1. Object Mapping for your project
 
 ### After Training
 1. Complete Object Mapping exercise for your project
 
-### Extra
-
 
 ## Resources / Reference
 
-1. [Intro Slides on Google Drive](https://docs.google.com/presentation/d/12vgbw7_H4xkDuymHjtwnmCWzXmsR4s5R8Py680rfFkM/edit#slide=id.g100fb54f86_0_55)
-1. [OOUX, a new approach to UX design](https://medium.com/@ellendong/ooux-a-new-approach-to-ux-design-e39103ad3f7b)
+1. Slides: [Intro Slides on Google Drive](https://docs.google.com/presentation/d/12vgbw7_H4xkDuymHjtwnmCWzXmsR4s5R8Py680rfFkM/edit#slide=id.g100fb54f86_0_55)
+1. Video: [OO UX at Wordcamp Lonodn](https://wordpress.tv/2017/06/06/crispin-read-object-oriented-user-experience-2/)
+1. Blog post: [OOUX, a new approach to UX design](https://medium.com/@ellendong/ooux-a-new-approach-to-ux-design-e39103ad3f7b)
 1. Slides: [Designing Object Oriented Experiences](https://www.slideshare.net/SophiaVoychehovski/object-oriented-ux-is-the-new-ia)
-1. [OOUX: A Foundation for Interaction Design](http://alistapart.com/article/ooux-a-foundation-for-interaction-design)
+1. Blog Post: [OOUX: A Foundation for Interaction Design](http://alistapart.com/article/ooux-a-foundation-for-interaction-design)
