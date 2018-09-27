@@ -1,48 +1,46 @@
 # Lesson Plan Template
-Last reviewed **27 June 2018** by **Crispin Read**
+Last reviewed **27 Seot 2018** by **Crispin Read**
 
 ## Description
-
+An overview of the subject material.
 ### Why this is important
 
 
 ## Outcomes
 
 At the end of this training you will be able to:
-1.
-1.
-1.
+1. 
+1. 
+1. 
 
 ## Learner Requirements
-
-1.
-1.
-1.
+Before starting this session you will need:
+1. 
+1. 
+1. 
 
 
 ## Outline
-
-1.
-1.
-    -
-    -
-    -
-1.
-1.
+An overview of the session
+1. 
+1. 
+    - 
+    - 
+    - 
+1. 
+1. 
 
 ## Tasks
-
-### During Training
-1.
-1.
-
-### After Training
+To be completed as part of this traiing session
 1.
 1.  
 1.
 
-### Extra
-
+### Further Tasks
+Additional to the training session.
+1. 
+1.   
+1.  
 
 ## Resources / Reference
 
