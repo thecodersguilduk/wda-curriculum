@@ -5,7 +5,7 @@ Last reviewed **10 July 2018** by **Crispin Read**
 We use user stories to describe development features and understand their value. As its name suggests, it is told from the user’s perspective. They are particularly helpful to capture a specific functionality, such as, searching for a product or making a booking.
 
 ### Why this is important
-Writing good user stories is key to a successful development. 
+Writing good user stories is key to a successful development.
 
 ## Outcomes
 
@@ -40,12 +40,11 @@ At the end of this training you will be able to:
 
 ### After Training
 1. Complete user stories for your project
-1. Complete
-
-### Extra
-
 
 ## Resources / Reference
 
 1. [Intro Slides on Google Drive](#)
 1. [Demo on YouTube](#)
+1. [10 Tips for Writing Good USer Stories](https://www.romanpichler.com/blog/10-tips-writing-good-user-stories/)
+1. [Better User Stories](https://reqtest.com/agile-blog/better-user-stories/)
+1. [The easy way to write User Stories](http://codesqueeze.com/the-easy-way-to-writing-good-user-stories/)
