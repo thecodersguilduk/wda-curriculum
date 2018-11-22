@@ -35,7 +35,7 @@ At the end of this training you will be able to:
 1. Task: Form to report bugs
 
 ## Tasks
-1. Google chrome JS debugging tool [Tutorial](https://developers.google.com/web/tools/chrome-devtools/javascript/)
+1. Google chrome JS debugging tool [Tutorial](https://developers.google.com/web/tools/chrome-devtools/javascript/) [45min]
 1. Check your company website / personal blog with inspector (Discuss) [30min]
 
 ### Further Tasks
