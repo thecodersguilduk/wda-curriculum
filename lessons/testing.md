@@ -1,5 +1,5 @@
 # Introduction to Testing
-Last reviewed **05 November 2018** by **Crispin Read**
+Last reviewed **22 November 2018** by **Crispin Read**
 
 ## Description
 A general introduction to testing for web development. We'll be looking at what different sorts of testing there are, why we test, what we test and how we test. We'll also look at how to develop a test plan and how to test websites practically, usefully and well.
@@ -33,7 +33,10 @@ At the end of this training you will be able to:
 ## Tasks
 
 1. Add testing terms to glossary
-1. Create Test plan
+1. Create Test plan for your blog
+
+### Further Tasks
+1. Create a test plan for something at work
 
 ## Resources / Reference
 
