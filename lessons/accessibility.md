@@ -50,3 +50,5 @@ At the end of this training you will be able to:
 1. [Twitter Bootstrap Components](http://getbootstrap.com/components/)
 1. Dive Into Accessibility](http://diveintoaccessibility.info/)
 1. [a11yproject.com](a11yproject.com)
+
+## Trainer Resources
