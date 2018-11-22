@@ -40,6 +40,7 @@ An overview of the session should mirror slide deck
 To be completed as part of this traiing session
   1. Make a change to your partners repo []()
   1. Review a pull request.
+  1. Work through the change requests on the Trello board.
 
 ### Further Tasks
 Additional to the training session, to be completed in apprentices own time (non mandetory).
