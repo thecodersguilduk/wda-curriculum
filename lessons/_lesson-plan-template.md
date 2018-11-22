@@ -3,8 +3,9 @@ Last reviewed **27 Sept 2018** by **Crispin Read**
 
 ## Description
 An overview of the subject material.
-### Why this is important
 
+### Why this is important
+Explain why learning this is useful in the working environment.
 
 ## Outcomes
 
@@ -25,9 +26,8 @@ An overview of the session should mirror slide deck
       - example 1
       - example 2
       - example 3
-  1. Group task
-  1. Group task review
-  1. Individual task
+  1. More info
+  1. Etc.
 
 ## Tasks
 To be completed as part of this traiing session
@@ -40,11 +40,11 @@ Additional to the training session, to be completed in apprentices own time (non
   1. Additional versions of session tasks for something at work
   1. Link to challenge repo on GitHub
 
-## Apprentice Resources / Reference
+## Resources / Reference
 
-  1. [Intro Slides on Google Drive](#)
-  1. [Demo on YouTube](#)
-  1. [Blog post](#)
+  1. Slides: [Intro Slides on Google Drive](#)
+  1. Demo: [Demo on YouTube](#)
+  1. Article: [Blog post](#)
   
 ## Trainer Resources
 
