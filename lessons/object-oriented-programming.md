@@ -16,9 +16,6 @@ At the end of this training you will be able to:
 
 ## Learner Requirements
 1. A computer with a fresh PHP development environment. 
-1. Drupal console installed (Module generation)
-1.
-
 
 ## Outline
 1. What is OOP
