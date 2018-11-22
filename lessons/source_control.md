@@ -1,8 +1,8 @@
-# Lesson Plan Template
+# Source control
 Last reviewed **22 Nov 2018** by **Crispin Read**
 
 ## Description
-An overview of the subject material.
+
 
 ### Why this is important
 Explain why learning this is useful in the working environment.
@@ -10,29 +10,36 @@ Explain why learning this is useful in the working environment.
 ## Outcomes
 
 At the end of this training you will be able to:
-  1. Understand this concept
-  1. Do this practical thing
-  1. Use this tool
+  1. Understand what source control is used for
+  1. Know what it's benefits are beyond source control
+  1. 
 
 ## Learner Requirements
 Before starting this session you will need:
-  1. Previous session
-  1. Treehouse track
+  1. Create a site on github pages using Jekyll
 
 ## Outline
 An overview of the session should mirror slide deck
-  1. Intro to topic
-  1. Use in real world
-      - example 1
-      - example 2
+  1. Why source control
+  1. Advantages to source control
+      - Testing
+      - Peer review
+  1. Disadvantages
+      - Slow down changes
       - example 3
-  1. More info
-  1. Etc.
+  1. Intro to Git
+      - Why Git
+      - Git basics (.gitignore / .git folder)
+  1. Git Workflows
+      - Gitflow
+      - Gtihubflow
+      - Feature brancing
+  1. Pull requests
 
 ## Tasks
 To be completed as part of this traiing session
-  1. Link to Glitch 
-  1. Link to repo on GitHub
+  1. Make a change to your partners repo []()
+  1. Review a pull request.
 
 ### Further Tasks
 Additional to the training session, to be completed in apprentices own time (non mandetory).
@@ -42,7 +49,7 @@ Additional to the training session, to be completed in apprentices own time (non
 
 ## Resources / Reference
 
-  1. Slides: [Intro Slides on Google Drive](#)
+  1. Slides: [Intro Slides on Google Drive](https://docs.google.com/presentation/d/157QYGIQha9d22va8I5gUiUdZXQeDXml2GwFHP2GS7bU/edit#slide=id.p)
   1. Demo: [Demo on YouTube](#)
   1. Article: [Blog post](#)
   
