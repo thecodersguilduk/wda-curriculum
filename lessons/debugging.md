@@ -1,5 +1,5 @@
 # Debugging
-Last reviewed **22 November 2018** by **Crispin Read**
+Last reviewed **22 November 2018** by **Dan Harper**
 
 ## Description
 We'll be taking a look at some of the strategies and tools that can make debugging easier - more productive, and less painful. While it is tempting to dive straight into the techniques, exploring the best ways to debug provides a stronger understanding and will enable you to be quicker at fixing issues in the future.   
