@@ -48,9 +48,8 @@ At the end of this training you will be able to:
 1. Create a flow chart to illustrate your debugging process
 
 ## Resources / Reference
-
 1. [Slides](https://docs.google.com/presentation/d/14jrEmastWeUkI67XktiTBz1KIWhZk7ltJILYQM18Seg/edit?usp=sharing)
-1.  [Apache configuration for logs](https://www.sitepoint.com/configuring-web-logs-apache/)
+1. [Apache configuration for logs](https://www.sitepoint.com/configuring-web-logs-apache/)
 1. [Nginx configuration for logs](http://nginx.org/en/docs/debugging_log.html)
 1. [Some recommended Atom plugins](https://mark.ie/blog/web-development/my-atom-packages)
 1. [Some more recommended Atom plugins](http://openahmed.com/blog/configure-atom-editor-drupal-development)
