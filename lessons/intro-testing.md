@@ -37,8 +37,8 @@ At the end of this training you will be able to:
 
 ## Resources / Reference
 
-1. Slides: [Hello Testing](https://docs.google.com/presentation/d/1eekYl8xj8vPyUBekYHUMdTsxNYu5__kunMhINuE2G1k/edit#slide=id.g46c86a5907_0_77)
-1. Slides: [Creating a test plan](https://docs.google.com/presentation/d/1ajH7E0dfMulYMhnXFeGDqO5dq9vpx03kn02y53zufis/edit#slide=id.g444b4d412b_0_110)
+1. Slides: [Intro to Testing](https://docs.google.com/presentation/d/1eekYl8xj8vPyUBekYHUMdTsxNYu5__kunMhINuE2G1k)
+1. Slides: [Creating a Test Plan](https://docs.google.com/presentation/d/1ajH7E0dfMulYMhnXFeGDqO5dq9vpx03kn02y53zufis)
 1. Template: [Test Plan](https://docs.google.com/document/d/1e2mvbgR_3O7jbegTOqC8wOXKvM9mZwpMFH-gIUScLxs/edit#)
 1. Ministry of Testing: [What is Software testing?](https://www.ministryoftesting.com/dojo/lessons/so-what-is-software-testing)
 1. Software Testing Club: [So What Is Testing ?](http://www.softwaretestingclub.com/forum/topics/so-what-is-software-testing)
