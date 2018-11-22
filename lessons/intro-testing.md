@@ -22,14 +22,12 @@ At the end of this training you will be able to:
 1. What Testing is
 1. What Testing is keynote
 1. Types of Testing
-1. Individual task: Research testing Types
 1. Creating a test plan
 1. Tools
 1. Audience
 1. Scope
 1. Support levels
 1. How to report
-1. Task: Create a test plan
 
 
 ## Tasks
