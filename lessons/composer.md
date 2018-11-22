@@ -11,7 +11,6 @@ At the end of this training you will be able to:
 1. Create project dependencies using composer.
 2. Search Packigist for code.
 3. Add a custom repository to make custom code available to your project.
-4. 
 
 ## Learner Requirements
 
