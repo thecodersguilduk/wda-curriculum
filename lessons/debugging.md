@@ -21,10 +21,6 @@ At the end of this training you will be able to:
 1. What is Debugging?
 1. Demo: Creating and Verifying Backups
 1. Creating a logical plan
-    - What changed?
-    - Reproduce
-    - Isolate
-    - Resolve
 1. Tools
 1. Dedicated Environments
 1. Server Config
@@ -40,6 +36,9 @@ At the end of this training you will be able to:
 1. Google chrome JS debugging tools
 1. Check your company website with inspector
 1. Check your blog with inspector
+
+## Outcomes
+1. You should be able to create a bug report template
 
 ### After Training
 1. Form to report bugs on your blog site
