@@ -14,7 +14,7 @@ At the end of this training you will be able to:
 1. Use appropriate development tools for debugging.
 1. Create a useful bug report template.
 
-### Learner Requirements
+## Learner Requirements
 
 1. Basic understanding of HTML, CSS, PHP
 
