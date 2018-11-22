@@ -1,5 +1,5 @@
 # Debugging
-Last reviewed **10 July 2018** by **Crispin Read**
+Last reviewed **22 November 2018** by **Crispin Read**
 
 ## Description
 We'll be taking a look at some of the strategies and tools that can make debugging easier - more productive, and less painful. While it is tempting to dive straight into the techniques, exploring the best ways to debug provides a stronger understanding and will enable you to be quicker at fixing issues in the future.   
@@ -50,16 +50,17 @@ At the end of this training you will be able to:
 
 ## Resources / Reference
 
-1. [Apache configuration for logs](https://www.sitepoint.com/configuring-web-logs-apache/)
-2. [Nginx configuration for logs](http://nginx.org/en/docs/debugging_log.html)
-3. [Drupal Recommended development list](https://www.drupal.org/docs/develop/development-tools)
-4. [Some recommended Atom plugins](https://mark.ie/blog/web-development/my-atom-packages)
-5. [Some more recommended Atom plugins](http://openahmed.com/blog/configure-atom-editor-drupal-development)
-6. [Troubleshooting Blank or White screen (WSOD)](https://www.drupal.org/node/158043)
-7. [Drupal Nginx Example configuration](https://www.nginx.com/resources/wiki/start/topics/recipes/drupal/)
-8. [Alt. Drupal Nginx Example configuration](https://github.com/perusio/drupal-with-nginx)
-9. [PHPStorm Remote debugging configuration](https://randyfay.com/content/remote-command-line-debugging-phpstorm-phpdrupal-including-drush)
-10. [Filezilla WARNING](https://programmingistheway.wordpress.com/2015/06/04/recover-saved-passwords-in-filezilla/)
-11. [Install composer,drush,console](https://modulesunraveled.com/drupal-8-composer-and-configuration-management/intro)
-12. [Webwash debugging seminar](https://www.youtube.com/watch?v=yi8WZQIxpqY)
-13. [Get logs via email](https://www.drupal.org/project/maillog)
+1. [Slides](https://docs.google.com/presentation/d/14jrEmastWeUkI67XktiTBz1KIWhZk7ltJILYQM18Seg/edit?usp=sharing)
+1  [Apache configuration for logs](https://www.sitepoint.com/configuring-web-logs-apache/)
+1. [Nginx configuration for logs](http://nginx.org/en/docs/debugging_log.html)
+1. [Drupal Recommended development list](https://www.drupal.org/docs/develop/development-tools)
+1. [Some recommended Atom plugins](https://mark.ie/blog/web-development/my-atom-packages)
+1. [Some more recommended Atom plugins](http://openahmed.com/blog/configure-atom-editor-drupal-development)
+1. [Troubleshooting Blank or White screen (WSOD)](https://www.drupal.org/node/158043)
+1. [Drupal Nginx Example configuration](https://www.nginx.com/resources/wiki/start/topics/recipes/drupal/)
+1. [Alt. Drupal Nginx Example configuration](https://github.com/perusio/drupal-with-nginx)
+1. [PHPStorm Remote debugging configuration](https://randyfay.com/content/remote-command-line-debugging-phpstorm-phpdrupal-including-drush)
+1. [Filezilla WARNING](https://programmingistheway.wordpress.com/2015/06/04/recover-saved-passwords-in-filezilla/)
+1. [Install composer,drush,console](https://modulesunraveled.com/drupal-8-composer-and-configuration-management/intro)
+1. [Webwash debugging seminar](https://www.youtube.com/watch?v=yi8WZQIxpqY)
+1. [Get logs via email](https://www.drupal.org/project/maillog)
