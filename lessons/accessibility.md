@@ -34,14 +34,12 @@ At the end of this training you will be able to:
 
 ## Tasks
 
-### During Training
 1. Accessibility review using browser tools
 
-### After Training
+### Further tasks
 1. Accessibility review of your project or company site
-
-### Extra
-1. Blog post on the importance of accessibility
+1. Add accessibility terms and definitions to your glossary
+1. Blog post on the importance of accessibility or main takeouts from the session
 1. Screencast of setting up for accessibility testing
 
 
