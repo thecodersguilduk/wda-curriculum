@@ -1,17 +1,17 @@
 # Object Oriented Programming
-Last reviewed **27 June 2018** by **Crispin Read**
+Last reviewed **22 November 2018** by **Crispin Read**
 
 ## Description
+An introduction into object oriented programming design patterns.
 
 ### Why this is important
-
+Using design patterns can save time as well as help developers to create software that is easier to maintain by promoting code re-use ( Inheritance, Polymorphism, Encapsulation )
 
 ## Outcomes
 
 At the end of this training you will be able to:
 1. Create code using inheritance
 1. Navigate code to find methods being called.
-1. Use OOP principles in a Drupal module.
 1. Decide when oop is appropriate and when it is not.
 
 ## Learner Requirements
