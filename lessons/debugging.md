@@ -1,5 +1,5 @@
 # Debugging
-Last reviewed **22 November 2018** by **Dan Harper**
+Last reviewed **13 December 2018** by **Dan Harper**
 
 ## Description
 We'll be taking a look at some of the strategies and tools that can make debugging easier - more productive, and less painful. While it is tempting to dive straight into the techniques, exploring the best ways to debug provides a stronger understanding and will enable you to be quicker at fixing issues in the future.   
@@ -21,18 +21,10 @@ At the end of this training you will be able to:
 ## Outline
 
 1. What is Debugging?
-1. Demo: Creating and Verifying Backups
-1. Creating a logical plan
-1. Tools
-1. Dedicated Environments
-1. Server Config
-1. Server Logs
-1. Demo/Tutorial: PHP specifics
-1. Best Practise Policies
-1. Demo/Tutorial: JavaScript Debugging with Google DevTools
-1. In Browser debugging with inspector
-1. Task: Check your company website with inspector
-1. Task: Form to report bugs
+1. Failing tests?
+1. Isolating a bug
+2. How to use log files
+2. How to use chrome tools.
 
 ## Tasks
 1. Google chrome JS debugging tool [Slide](https://docs.google.com/presentation/d/14jrEmastWeUkI67XktiTBz1KIWhZk7ltJILYQM18Seg/edit#slide=id.g2f6e41d8b5_0_223/)
@@ -41,7 +33,6 @@ At the end of this training you will be able to:
 ### Further Tasks
 1. Form to report bugs on your blog site
 1. Debug your blog
-1. Create a best practise doc
 1. Create a flow chart to illustrate your debugging process
 
 ## Resources / Reference
