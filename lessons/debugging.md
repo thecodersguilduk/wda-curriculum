@@ -23,8 +23,8 @@ At the end of this training you will be able to:
 1. What is Debugging?
 1. Failing tests?
 1. Isolating a bug
-2. How to use log files
-2. How to use chrome tools.
+      - How to use log files
+      - How to use chrome tools.
 
 ## Tasks
 1. Google chrome JS debugging tool [Slide](https://docs.google.com/presentation/d/14jrEmastWeUkI67XktiTBz1KIWhZk7ltJILYQM18Seg/edit#slide=id.g2f6e41d8b5_0_223/)
