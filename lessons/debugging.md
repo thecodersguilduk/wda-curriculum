@@ -10,9 +10,10 @@ Debgging effectively saves time and leads us to working software, it can also be
 ## Outcomes
 
 At the end of this training you will be able to:
-1. Understand best practice for debugging.
-1. Use appropriate development tools for debugging.
-1. Create a useful bug report template.
+1. How to record bugs
+1. Access log files to get more information about bugs
+1. Use front end developmnet tools
+1. Know how to write basic tests
 
 ## Learner Requirements
 
@@ -21,12 +22,14 @@ At the end of this training you will be able to:
 ## Outline
 
 1. What is Debugging?
-1. Failing tests?
-1. Isolating a bug
+1. Reproduce
+1. Isolating
       - How to use log files
       - How to use chrome tools.
+1. Resolve
 
 ## Tasks
+1. Create an issue log template [Slide](https://docs.google.com/presentation/d/14jrEmastWeUkI67XktiTBz1KIWhZk7ltJILYQM18Seg/edit#slide=id.g2f6e41d8b5_0_223)
 1. Google chrome JS debugging tool [Slide](https://docs.google.com/presentation/d/14jrEmastWeUkI67XktiTBz1KIWhZk7ltJILYQM18Seg/edit#slide=id.g2f6e41d8b5_0_223/)
 1. Check your company website / personal blog with inspector (Discuss) [Slide](https://docs.google.com/presentation/d/14jrEmastWeUkI67XktiTBz1KIWhZk7ltJILYQM18Seg/edit#slide=id.g2f6e41d8b5_0_44)
 
