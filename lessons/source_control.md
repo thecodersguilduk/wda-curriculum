@@ -37,14 +37,13 @@ An overview of the session should mirror slide deck
 To be completed as part of this training session:
   1. Group project on GitHub
   1. Add some relevant terms to your glossary
-  1. Install and complete [Git it tutorial ap](https://github.com/jlord/git-it-electron)
+  1. Install and complete [Git it tutorial](https://github.com/jlord/git-it-electron)
   1. Complete [Learn Git Branching](https://learngitbranching.js.org/)
   1. Complete [Fracz Git Excersises](https://gitexercises.fracz.com/)
 
 ### Additional Tasks
 Supplement your learning and provide additional evidence by completing some of these extra tasks.
 
-  1. Learn Git Branching
   1. Screencast of a pull request code review
   1. Create a git cheat sheet
 
