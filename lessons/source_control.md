@@ -50,9 +50,8 @@ Supplement your learning and provide additional evidence by completing some of t
 #### Blog Post Ideas
   - Key takeouts from group task
   - Compare git tutorials and learning aids
-  - Compare Git Workflows
+  - Compare git workflows
   - Starting out with git
-
 
 ## Resources / Reference
 
@@ -63,8 +62,9 @@ Supplement your learning and provide additional evidence by completing some of t
   1. Intro to GitHub: [Fork, Branch, Pull Request](http://gun.io/blog/how-to-github-fork-branch-and-pull-request/)
   1. [Think Like (a) Git](http://think-like-a-git.net/). A series of introductory blogs, aimed at beginners.
   1. [Everyday Git](http://www.kernel.org/pub/software/scm/git/docs/everyday.html) - The most common commands with examples
+  1. [Bitbucket - Why Git?](https://www.atlassian.com/git/tutorials/why-git)
 
 
 ## Trainer Resources
 
-  1. [Training notes](#)
+  1. [Training notes](https://docs.google.com/document/d/1EFupWEre6Peep3Xbvj7hJhh-C96Yocf8UgAk8bYV8iU/edit#)
