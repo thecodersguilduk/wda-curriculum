@@ -56,13 +56,17 @@ Supplement your learning and provide additional evidence by completing some of t
 ## Resources / Reference
 
   1. Slides: [Intro Slides on Google Drive](https://docs.google.com/presentation/d/157QYGIQha9d22va8I5gUiUdZXQeDXml2GwFHP2GS7bU/edit#slide=id.p)
-  1. Blog post: [Understanding Git (part 1) — Explain it Like I’m Five]](https://hackernoon.com/understanding-git-fcffd87c15a3)
+  1. Blog post: [Understanding Git — Explain it Like I’m Five](https://hackernoon.com/understanding-git-fcffd87c15a3)
   1. GitHub [Try Git](https://try.github.io/)
   1. PeepCode [Git Internals PDF](https://github.com/pluralsight/git-internals-pdf)
   1. Intro to GitHub: [Fork, Branch, Pull Request](http://gun.io/blog/how-to-github-fork-branch-and-pull-request/)
   1. [Think Like (a) Git](http://think-like-a-git.net/). A series of introductory blogs, aimed at beginners.
   1. [Everyday Git](http://www.kernel.org/pub/software/scm/git/docs/everyday.html) - The most common commands with examples
   1. [Bitbucket - Why Git?](https://www.atlassian.com/git/tutorials/why-git)
+  1. [Comparing Git Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
+  1. Tutorial: [Feature Branch Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)
+  1. [GitHub Flow](https://githubflow.github.io/)
+  1. [Git Flow Vs GitHub Flow](https://lucamezzalira.com/2014/03/10/git-flow-vs-github-flow/)
 
 
 ## Trainer Resources
