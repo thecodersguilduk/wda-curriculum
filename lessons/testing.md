@@ -16,7 +16,6 @@ At the end of this training you will be able to:
 
 1. Understanding of front-end web development
 
-
 ## Outline
 
 1. What Testing is
@@ -28,7 +27,6 @@ At the end of this training you will be able to:
     1. Scope
     1. Support levels
 1. How to report
-
 
 ## Tasks
 
