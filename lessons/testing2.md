@@ -47,14 +47,5 @@ At the end of this training you will be able to:
 1. MDN: [Intro to automated Testing](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Automated_testing)
 
 
-1. Ministry of Testing: [What is Software testing?](https://www.ministryoftesting.com/dojo/lessons/so-what-is-software-testing)
-1. Software Testing Club: [So What Is Testing ?](http://www.softwaretestingclub.com/forum/topics/so-what-is-software-testing)
-1. Smashing Magazine: [How To Create Your Own Front-End Website Testing Plan](https://www.smashingmagazine.com/2014/11/how-to-create-your-own-front-end-website-testing-plan/)
-1. What Is Software Testing: [Definition, Types, Methods, Approaches](https://www.softwaretestingmaterial.com/software-testing/)
-1. Tutorialspoint: [Agile Testing](https://www.tutorialspoint.com/agile_testing/agile_testing_quick_guide.htm)
-1. Code Project: [What are the different types of testing?](https://www.codeproject.com/Tips/351122/What-is-software-testing-What-are-the-different-ty)
-1. Test Institute: [Testing Roles and Responsibilities](https://www.test-institute.org/Software_Testing_Roles_And_Responsibilities.php)
-1. Software Testing Fundamentals: [Differences Between Black Box Testing and White Box Testing](http://softwaretestingfundamentals.com/differences-between-black-box-testing-and-white-box-testing/)
-
 ## Notes for trainers
 1. [Intro to Testing - Trainer Notes](https://docs.google.com/document/d/1JjETtAqxzRwtwGkbOQj9EO9YkxshBa57vUShr8r7eKw/edit#)
