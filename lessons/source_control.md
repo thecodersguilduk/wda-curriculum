@@ -67,6 +67,7 @@ Supplement your learning and provide additional evidence by completing some of t
   1. Tutorial: [Feature Branch Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)
   1. [GitHub Flow](https://githubflow.github.io/)
   1. [Git Flow Vs GitHub Flow](https://lucamezzalira.com/2014/03/10/git-flow-vs-github-flow/)
+  1. [10 great tutorials for learning Git](https://medium.com/quick-code/top-tutorials-to-learn-git-for-beginners-622289ffdfe5)
 
 
 ## Trainer Resources
