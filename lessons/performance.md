@@ -2,20 +2,21 @@
 Last reviewed **24 April 2019** by **Crispin Read**
 
 ## Description
+In this session we will look at website performance, what it means and why it is important. We'll also be looking at some of the tools we can use to measure performance and what we should be looking to improve.
 
 ### Why this is important
-
+Fast websites means better UX, high return visits, low bounce rates, higher conversions, greater engagement, and higher ranks in organic search. Slow websites cost us (and our clients) money and damage reputations.  
 
 ## Outcomes
 
 At the end of this training you will be able to:
-1.
-1.
-1.
+
+1. Understand the importance of website performance from a business perspective
+1. Use tools to test the performance of websites
 
 ## Learner Requirements
 
-1. A site to audit
+1. A site to audit for takeaway task
 
 
 ## Outline
@@ -23,7 +24,7 @@ At the end of this training you will be able to:
 1. What does performance mean?
 1. Why is it important?
     - Conversion
-    - visibility
+    - Visibility
     - Usability
 1. Ways to assess Performance
     - Pingdom
@@ -47,15 +48,11 @@ At the end of this training you will be able to:
 ## Tasks
 
 ### During Training
-1.
-1.
+1. Research techniques for improving performance
 
 ### After Training
-1.
-1.  
-1.
-
-### Extra
+1. Conduct a performance audit on a site (or sites)
+1. Implement changes from the audit(s)
 
 
 ## Resources / Reference
