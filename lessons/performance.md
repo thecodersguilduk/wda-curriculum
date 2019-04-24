@@ -1,5 +1,5 @@
 # Performance
-Last reviewed **27 June 2018** by **Crispin Read**
+Last reviewed **24 April 2019** by **Crispin Read**
 
 ## Description
 
@@ -15,20 +15,34 @@ At the end of this training you will be able to:
 
 ## Learner Requirements
 
-1.
-1.
-1.
+1. A site to audit
 
 
 ## Outline
 
-1.
-1.
-    -
-    -
-    -
-1.
-1.
+1. What does performance mean?
+1. Why is it important?
+    - Conversion
+    - visibility
+    - Usability
+1. Ways to assess Performance
+    - Pingdom
+    - Yslow
+    - Lighthouse
+1. 12 techniques
+    - CDN
+    - Hosting
+    - Images
+    - Plugins/Modules
+    - Minimising requests
+    - Caching
+    - Compression
+    - Database optimisation
+    - Webfonts
+    - 404 errors
+    - Redirects
+    - Prefetching
+1. Performance Budget
 
 ## Tasks
 
@@ -46,5 +60,8 @@ At the end of this training you will be able to:
 
 ## Resources / Reference
 
-1. [Intro Slides on Google Drive](#)
-1. [Demo on YouTube](#)
+1. Slides: [Performance for Web Dev](https://docs.google.com/presentation/d/1iZDYvdIjepmIY0mP_5HiBSag6VL-a8_7r1GijTk2Pgo/edit#slide=id.p)
+1. [Google Dev Tools - Lighthouse](https://developers.google.com/web/tools/lighthouse/#devtools)
+1. [Pingdom](https://tools.pingdom.com/)
+1. [Yslow](http://yslow.org/)
+1. Tutorial: [Setting up custom Audits with Lighthouse](https://www.aymen-loukil.com/en/blog-en/google-lighthouse-custom-audits/)
