@@ -2,18 +2,21 @@
 Web development apprenticeship curriculum and learning materials
 
 ## Structure
-The repo is set out as a reference tool, grouping documents by their type. Once we have a comprehensive library in place we can add layers to group lessons, tasks and tutorials in different ways or as standalone courses.
+The repo is set out as a reference tool, grouping documents by type.
+
+@todo Add navigation and new theme to front end site
 
 1. **Lessons** - Lesson plans for group training delivered by an experienced web development professional
-2. **Tutorials** - 'How to' documents as reference for apprentices to achieve common tasks without supervision
-3. **Tasks** - Challenges in the form of problems to be solved with code or development techniques (these may move to separate repos)
+1. **Workshops** - Specialist training from experts-in-the-field
+
 
 ## Workflow
-We are constantly reviewing, adding and updating this content. Every trainer will be assigned an issue to review the content of their forthcoming session 2 weeks before delivery. This ensures all our content is as current and relevant as possible.
+We are constantly reviewing, adding and updating this content. Every trainer will be required to review the content of their forthcoming session 2 weeks before delivery. Also please add any new links or edits that come out of delivering the session and add it to the/ create a new PR.
 
-1. Claim (or be assigned) issue
-2. Create branch of full issue name including number (e.g. Review-code-standards-lesson-#30)
-3. Complete edits/amends
-4. Update last reviewed info
-5. Push branch
-6. Create PR and tag or ping one of the team for a review and merge
+This ensures all our content is as current and relevant as possible.
+
+1. Checkout appropriate branch
+1. Complete edits/amends - if nothing to add goto next
+1. Update last reviewed info
+1. Push branch
+1. Create PR and tag or ping one of the team for a review and merge
