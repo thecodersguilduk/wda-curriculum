@@ -1,18 +1,18 @@
 # Privacy
-Last reviewed **25 April 2019** by **Crispin Read**
+Last reviewed **21 April 2019** by **Heather Burns**
 
 ## Description
-An overview of the subject material.
+We will approach privacy as a development concept, and learn how a healthy regard for user protection is a fundamental value of professionalism. We will cover basic concepts of privacy, development frameworks, international legal standards, and best practice in design and programming.
 
 ### Why this is important
-Explain why learning this is useful in the working environment.
+Protecting users from the misuses of their data is the most important thing you will do as a developer. Acquiring a well-rounded body of knowledge in theory, practice, and legal issues will increase your potential value to employers and workplaces.
 
 ## Outcomes
 
 At the end of this training you will be able to:
-  1. Understand this concept
-  1. Do this practical thing
-  1. Use this tool
+  1. Integrate best privacy practice into your work
+  2. Understand the legal frameworks around privacy
+  3. Champion privacy as a development practice in your workplace
 
 ## Learner Requirements
 Before starting this session you will need:
@@ -20,25 +20,30 @@ Before starting this session you will need:
   1. Treehouse track
 
 ## Outline
-An overview of the session should mirror slide deck
-  1. Intro to topic
-  1. Use in real world
-      - example 1
-      - example 2
-      - example 3
-  1. More info
-  1. Etc.
+
+1. Intro to privacy and data protection
+     - Fundamental concepts of privacy
+     - Differing cultural, legal, and historical approaches to privacy
+     - Privacy through the rule of law
+     - Privacy through soft regulation
+  2. Development concepts
+      - Privacy by Design
+      - Privacy Impact Assessments
+      - Design, UX, and dark patterns
+  3. Legal concepts
+      - Introduction to the European privacy regime
+      - UK privacy legislation, including Brexit
+      - US privacy legislation, including future/draft policies
+  4. Current topics and issues
+      - Data mining, profiling, and targeted advertising
+      - Privacy and social networks
+      - IoT/connected devices
 
 ## Tasks
-To be completed as part of this training session
-  1. Link to Glitch
-  1. Link to repo on GitHub
+TBC
 
 ### Further Tasks
-Additional to the training session, to be completed in apprentices own time (non mandatory).
-  1. Additional versions of session tasks for your project
-  1. Additional versions of session tasks for something at work
-  1. Link to challenge repo on GitHub
+TBC
 
 ## Resources / Reference
 
