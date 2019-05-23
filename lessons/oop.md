@@ -15,7 +15,7 @@ At the end of this training you will be able to:
 1. Decide when oop is appropriate and when it is not.
 
 ## Learner Requirements
-1. A computer with a fresh PHP development environment. 
+1. A computer with a fresh PHP development environment.
 
 ## Outline
 1. What is OOP
@@ -35,7 +35,7 @@ At the end of this training you will be able to:
 
 ### During Training
 1. Create a class and subclass that represents person and employee.
-1. Create a module that benefits from using OOP 
+1. Create a module that benefits from using OOP
 
 ### After Training
 1. Navigate the code inside of the Drupal core and see if you can understand what code is being executed.
