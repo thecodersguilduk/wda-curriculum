@@ -1,5 +1,5 @@
 # Patternlab
-Last reviewed **09 July 2018** by **Crispin Read**
+Last reviewed **23 June 2019** by **Andy Fowlston**
 
 ## Description
 Pattern Lab helps you and your team build thoughtful, pattern-driven user interfaces using atomic design principles. A static site generator we can use as a framework for creating live style sheets for php or node projects.
@@ -9,40 +9,44 @@ Live stylesheets are a great way to minimise styling and branding errors in deve
 ## Outcomes
 
 At the end of this training you will be able to:
+1. Identify components in a design.
+1. Understand the role of a component library in a design system.
 1. Understand the principles of atomic design
-1. Use Patternlab to create a style guide
+1. Use Pattern Lab to create a pattern library.
 
 ## Learner Requirements
 
 1. php or node project
 
-
 ## Outline
 
+1. What makes up a design system?
+1. Why have a component library?
+1. Introduction to Pattern Lab
 1. What is Atomic Design?
-1. Why is it useful?
-1. Potential pitfalls
-1. Demo: Patternlab
-1. Activity: Create a styleguide from requirements
+1. Activity: create a pattern library from requirements
 
 ## Tasks
 
 ### During Training
-1. Create draft style guide
+1. Create draft pattern library
 
 ### After Training
-1. Install Patternlab locally
-1. Complete style guide to spec
+1. Install Pattern Lab locally
+1. Complete pattern library to spec
 
 ### Extra
 
-1. Create a style guide for your project
 1. Tutorial on installing Patternlab
 1. Create a style guide for your project
+1. Read article about [Content and display patterns](http://bradfrost.com/blog/link/content-and-display-patterns/)
 
 ## Resources / Reference
 
 1. [Intro Slides on Google Drive](#)
-1. [Download Patternlab](http://patternlab.io/download.html)
-1. [Patternlab Documentation](http://patternlab.io/docs/index.html)
-1. [Patternlab Demo](http://demo.patternlab.io/)
+1. [Download Pattern Lab](http://patternlab.io/download.html)
+1. [Pattern Lab Documentation](http://patternlab.io/docs/index.html)
+1. [Pattern Lab Demo](http://demo.patternlab.io/)
+1. [Content and display patterns](http://bradfrost.com/blog/link/content-and-display-patterns/)
+1. [The Atomic Design book](http://atomicdesign.bradfrost.com/ )
+1. [Pattern Lab roadmap to v3](https://github.com/pattern-lab/patternlab-node/issues/983)
