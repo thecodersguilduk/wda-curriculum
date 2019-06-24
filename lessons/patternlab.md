@@ -43,7 +43,7 @@ At the end of this training you will be able to:
 
 ## Resources / Reference
 
-1. [Intro Slides on Google Drive](#)
+1. [Intro Slides on Google Drive](https://docs.google.com/presentation/d/1KoJ2tg-W00fvmzL8R3pLE3eYuDYDnM8PeXiz1UVeEqs/edit?usp=sharing)
 1. [Download Pattern Lab](http://patternlab.io/download.html)
 1. [Pattern Lab Documentation](http://patternlab.io/docs/index.html)
 1. [Pattern Lab Demo](http://demo.patternlab.io/)
