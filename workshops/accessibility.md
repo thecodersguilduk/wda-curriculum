@@ -48,7 +48,7 @@ At the end of this training you will be able to:
 1. [Intro Slides on Google Drive](#)
 1. [Testing accessibility with NVDA screen-reader and Firefox])https://www.marcozehe.de/articles/how-to-use-nvda-and-firefox-to-test-your-web-pages-for-accessibility/)
 1. [Twitter Bootstrap Components](http://getbootstrap.com/components/)
-1. Dive Into Accessibility](http://diveintoaccessibility.info/)
+1. [Dive Into Accessibility (archive copy)](https://github.com/brianteeman/diveintoaccessibility)
 1. [a11yproject.com](a11yproject.com)
 
 ## Trainer Resources
