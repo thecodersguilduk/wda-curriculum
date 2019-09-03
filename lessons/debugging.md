@@ -46,5 +46,4 @@ At the end of this training you will be able to:
 1. Article: [Webwash debugging seminar](https://www.youtube.com/watch?v=yi8WZQIxpqY)
 
 ## Trainer Resources
-1. [Completed code challenge](#)
-1. [Training notes](#)
+1. [Training notes](https://docs.google.com/document/d/1CVxP67y_oHNwmQSZGJo7m7zitvcLBMYVfa27z5qQRCM/edit)
