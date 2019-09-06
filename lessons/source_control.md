@@ -1,5 +1,5 @@
 # Source control
-Last reviewed **16 Feb 2019** by **Crispin Read**
+Last reviewed **04 Sept 2019** by **Crispin Read**
 
 ## Description
 In this session we'll learn more about change management and version control using git. In particular we'll be looking at some of the more common workflows that sit alongside source control.
@@ -16,6 +16,7 @@ At the end of this training you will be able to:
 ## Learner Requirements
 Before starting this session you will need:
   1. GitHub account
+  1. Install and complete [Git it tutorial](https://github.com/jlord/git-it-electron)
 
 ## Outline
 An overview of the session should mirror slide deck
@@ -37,7 +38,6 @@ An overview of the session should mirror slide deck
 To be completed as part of this training session:
   1. Group project on GitHub
   1. Add some relevant terms to your glossary
-  1. Install and complete [Git it tutorial](https://github.com/jlord/git-it-electron)
   1. Complete [Learn Git Branching](https://learngitbranching.js.org/)
   1. Complete [Fracz Git Excersises](https://gitexercises.fracz.com/)
 
