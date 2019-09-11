@@ -1,5 +1,5 @@
-# Lesson Plan Template
-Last reviewed **23 May 2019** by **Crispin Read**
+# Automation
+Last reviewed ** 2019** by **Crispin Read**
 
 ## Description
 An overview of the subject material.
@@ -21,13 +21,16 @@ Before starting this session you will need:
 
 ## Outline
 An overview of the session should mirror slide deck
-  1. Intro to topic
-  1. Use in real world
+  1. What does automation mean to you?
+  1. When is it useful/ not useful
+  1. Different types of automation
       - example 1
       - example 2
       - example 3
-  1. More info
-  1. Etc.
+  1. Gulp practical
+  1. Review
+  1. Gutenburg practical
+  1. Review
 
 ## Tasks
 To be completed as part of this traiing session
