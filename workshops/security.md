@@ -10,12 +10,12 @@ It is our duty to build with security in mind. If what we build is not safe and 
 ## Outcomes
 
 At the end of this training you will be able to:
-1. Recognise certain vulnerabilities of a web application
-1. Test for security issues and fix them
+1. Recognise certain vulnerabilities of a web application, including those frequently featured in the OWASP top 10
+1. Test for security issues and understand how to prevent them
 
 ## Learner Requirements
 
-1. Good understanding of php
+1. Understanding of PHP, HTML and JS 
 
 ## Outline
 
@@ -38,4 +38,6 @@ At the end of this training you will be able to:
 ## Resources / Reference
 
 1. [Intro Slides on Google Drive](#)
-1. [Demo on YouTube](#)
+1. [OWASP Top Ten](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
+1. [Building secure web applications in PHP](https://paragonie.com/blog/2015/09/building-secure-web-applications-in-php)
+1. [Building secure web applications in PHP 2018 edition](https://paragonie.com/blog/2017/12/2018-guide-building-secure-php-software)
