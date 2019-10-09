@@ -1,5 +1,5 @@
 # Debugging
-Last reviewed **13 December 2018** by **Dan Harper**
+Last reviewed **27 June 2019** by **Alex Seymour**
 
 ## Description
 We'll be taking a look at some of the strategies and tools that can make debugging easier - more productive, and less painful. While it is tempting to dive straight into the techniques, exploring the best ways to debug provides a stronger understanding and will enable you to be quicker at fixing issues in the future.   
@@ -47,3 +47,4 @@ At the end of this training you will be able to:
 
 ## Trainer Resources
 1. [Training notes](https://docs.google.com/document/d/1CVxP67y_oHNwmQSZGJo7m7zitvcLBMYVfa27z5qQRCM/edit)
+1. [Debugging Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/debugging/use-the-javascript-console-to-check-the-value-of-a-variable/)
