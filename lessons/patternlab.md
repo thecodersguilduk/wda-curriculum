@@ -1,5 +1,5 @@
 # Patternlab
-Last reviewed **23 June 2019** by **Andy Fowlston**
+Last reviewed **19 November 2019** by **Michal Lapeusz**
 
 ## Description
 Pattern Lab helps you and your team build thoughtful, pattern-driven user interfaces using atomic design principles. A static site generator we can use as a framework for creating live style sheets for php or node projects.
