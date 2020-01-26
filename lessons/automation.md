@@ -1,8 +1,8 @@
 # Lesson Plan Template
-Last reviewed **23 May 2019** by **Crispin Read**
+Last reviewed **25 September 2019** by **Alex Seymour**
 
 ## Description
-An overview of the subject material.
+This lesson is structured around what automation is and has an introduction to tools that can be used to automate parts of a process or tools that will help a developer be more efficient.
 
 ### Why this is important
 Explain why learning this is useful in the working environment.
@@ -11,42 +11,34 @@ Explain why learning this is useful in the working environment.
 
 At the end of this training you will be able to:
   1. Understand this concept
-  1. Do this practical thing
-  1. Use this tool
+  1. Have knowledge of a few tools available the could start using immediately
 
 ## Learner Requirements
 Before starting this session you will need:
-  1. Previous session
-  1. Treehouse track
+  1. A computer with access to terminal (windows machine will require putty)
+  1. A development environment on their computer.
 
 ## Outline
 An overview of the session should mirror slide deck
   1. Intro to topic
-  1. Use in real world
-      - example 1
-      - example 2
-      - example 3
-  1. More info
-  1. Etc.
+  1. Examples of automation
+  1. Explainations of each type of automation
+  1. Practical tasks to show each student how the tools work.
 
 ## Tasks
 To be completed as part of this traiing session
-  1. Link to Glitch
-  1. Link to repo on GitHub
+  1. https://www.npmjs.com/ - NPM, basic tutorial
+  1. https://getcomposer.org/ - Composer, basic tutorial
+  1. https://reactjs.org/tutorial/tutorial.html - Creating a react app with NPM
+  1. https://gulpjs.com/ - Adding gulp compiler to your dev environment
+  1. https://wppb.me/ - Online tool that creates a class wordpress plugin from a template
+  1. https://github.com/ahmadawais/create-guten-block - NPX tool that creates a gutenberg wordpress component
 
-### Further Tasks
-Additional to the training session, to be completed in apprentices own time (non mandetory).
-  1. Additional versions of session tasks for your project
-  1. Additional versions of session tasks for something at work
-  1. Link to challenge repo on GitHub
 
 ## Resources / Reference
 
-  1. Slides: [Intro Slides on Google Drive](#)
-  1. Demo: [Demo on YouTube](#)
-  1. Article: [Blog post](#)
+  1. Slides: [Intro Slides on Google Drive](https://docs.google.com/presentation/d/1v3mYZnzO-H62539ZjulyqMeWtF5suVJAQyQHZBE4S3s/edit#slide=id.g602cb96396_3_0)
 
 ## Trainer Resources
 
-  1. [Completed code challenge](#)
   1. [Training notes](#)
