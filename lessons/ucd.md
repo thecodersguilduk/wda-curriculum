@@ -1,3 +1,6 @@
+---
+permalink: /lessons/ucd
+---
 # User Centred Development
 Last reviewed **23 Juan 2019** by **Crispin Read**
 

@@ -1,3 +1,6 @@
+---
+permalink: /info/course_overview
+---
 # Lesson Plan Template
 Last reviewed **23 October 2018** by **Crispin Read**
 

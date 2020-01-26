@@ -1,3 +1,6 @@
+---
+permalink: /lessons/agile
+---
 # Agile theory and Practice
 Last reviewed **30 April 2018** by **Crispin Read**
 

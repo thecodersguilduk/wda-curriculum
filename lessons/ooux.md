@@ -1,3 +1,6 @@
+---
+permalink: /lessons/ooux
+---
 # OOUX and Object Mapping
 Last reviewed **28 Aug 2018** by **Crispin Read**
 

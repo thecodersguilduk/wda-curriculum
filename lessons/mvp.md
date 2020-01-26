@@ -1,3 +1,6 @@
+---
+permalink: /lessons/mvp
+---
 # Lesson Plan Template
 Last reviewed **07 January 2020** by **Crispin Read**
 
@@ -22,7 +25,7 @@ Before starting this session you will need:
 ## Outline
 An overview of the session should mirror slide deck
   1. Project planning
-  1. 
+  1.
 
 ## Tasks
 To be completed as part of this traiing session

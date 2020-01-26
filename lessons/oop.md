@@ -1,3 +1,6 @@
+---
+permalink: /lessons/oop
+---
 # Object Oriented Programming
 Last reviewed **22 November 2018** by **Crispin Read**
 
