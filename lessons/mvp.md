@@ -1,5 +1,5 @@
 # Lesson Plan Template
-Last reviewed **23 May 2019** by **Crispin Read**
+Last reviewed **07 January 2020** by **Crispin Read**
 
 ## Description
 An overview of the subject material.
@@ -21,13 +21,8 @@ Before starting this session you will need:
 
 ## Outline
 An overview of the session should mirror slide deck
-  1. Intro to topic
-  1. Use in real world
-      - example 1
-      - example 2
-      - example 3
-  1. More info
-  1. Etc.
+  1. Project planning
+  1. 
 
 ## Tasks
 To be completed as part of this traiing session
