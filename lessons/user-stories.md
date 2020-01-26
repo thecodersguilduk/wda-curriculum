@@ -1,5 +1,8 @@
+---
+permalink: /lessons/user_stories
+---
 # User Stories and Estimation
-Last reviewed **10 July 2018** by **Crispin Read**
+Last reviewed **25 January 2020** by **Crispin Read**
 
 ## Description
 We use user stories to describe development features and understand their value. As its name suggests, it is told from the user’s perspective. They are particularly helpful to capture a specific functionality, such as, searching for a product or making a booking.
@@ -26,11 +29,7 @@ At the end of this training you will be able to:
     1. Impact Mapping
 1. Anatomy of a user story
 1. Activity: Create some user stories
-1. Estimation
-1. Techniques
-1. Activity: Estimation poker
-1. Recap: planning and roadmap
-1. Activity: Planning a sprint
+
 
 
 ## Tasks

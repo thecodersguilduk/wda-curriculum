@@ -1,3 +1,6 @@
+---
+permalink: /lessons/testing
+---
 # Introduction to Testing
 Last reviewed **15 March 2019** by **Crispin Read**
 

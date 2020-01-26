@@ -1,3 +1,6 @@
+---
+permalink: /lessons/debugging
+---
 # Debugging
 Last reviewed **27 June 2019** by **Alex Seymour**
 

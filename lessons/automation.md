@@ -1,3 +1,7 @@
+---
+permalink: /lessons/automation
+---
+
 # Lesson Plan Template
 Last reviewed **25 September 2019** by **Alex Seymour**
 

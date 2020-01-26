@@ -1,3 +1,6 @@
+---
+permalink: /lessons/impact
+---
 # Impact Mapping
 Last reviewed **26 June 2018** by **Crispin Read**
 
