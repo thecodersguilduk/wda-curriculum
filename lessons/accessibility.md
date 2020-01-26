@@ -1,3 +1,6 @@
+---
+permalink: /lessons/accessibility
+---
 # Accessibility
 Last reviewed **09 July 2018** by **Crispin Read**
 
