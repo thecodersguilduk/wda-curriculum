@@ -1,5 +1,5 @@
 ---
-permalink: /lessons/scrum
+permalink: /session/scrum
 ---
 # SCRUM and Kanban
 Last reviewed **23 Aug 2018** by **Crispin Read**

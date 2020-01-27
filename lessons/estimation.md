@@ -1,5 +1,5 @@
 ---
-permalink: /lessons/estimation
+permalink: /session/estimation
 ---
 # User Stories and Estimation
 Last reviewed **25 January 2020** by **Crispin Read**

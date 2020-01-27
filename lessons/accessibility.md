@@ -1,5 +1,5 @@
 ---
-permalink: /lessons/accessibility
+permalink: /session/accessibility
 ---
 # Accessibility
 Last reviewed **09 July 2018** by **Crispin Read**

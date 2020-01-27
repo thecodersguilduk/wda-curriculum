@@ -1,5 +1,5 @@
 ---
-permalink: /lessons/sdlc
+permalink: /session/sdlc
 ---
 # Software Development Life Cycle
 Last reviewed **10 July 2018** by **Crispin Read**

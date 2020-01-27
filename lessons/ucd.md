@@ -1,5 +1,5 @@
 ---
-permalink: /lessons/ucd
+permalink: /session/ucd
 ---
 # User Centred Development
 Last reviewed **23 Juan 2019** by **Crispin Read**

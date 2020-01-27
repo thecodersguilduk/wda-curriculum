@@ -1,5 +1,5 @@
 ---
-permalink: /lessons/mvp
+permalink: /session/mvp
 ---
 # Lesson Plan Template
 Last reviewed **07 January 2020** by **Crispin Read**

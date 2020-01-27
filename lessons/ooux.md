@@ -1,5 +1,5 @@
 ---
-permalink: /lessons/ooux
+permalink: /session/ooux
 ---
 # OOUX and Object Mapping
 Last reviewed **28 Aug 2018** by **Crispin Read**
