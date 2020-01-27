@@ -1,5 +1,5 @@
 ---
-permalink: /lessons/impact
+permalink: /session/impact
 ---
 # Impact Mapping
 Last reviewed **26 June 2018** by **Crispin Read**

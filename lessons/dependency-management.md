@@ -1,5 +1,5 @@
 ---
-permalink: /lessons/dependancy
+permalink: /session/dependancy
 ---
 # Dependency and package management.
 Last reviewed **13 December 2018** by **Daniel Harper**

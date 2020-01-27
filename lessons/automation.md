@@ -1,5 +1,5 @@
 ---
-permalink: /lessons/automation
+permalink: /session/automation
 ---
 
 # Lesson Plan Template

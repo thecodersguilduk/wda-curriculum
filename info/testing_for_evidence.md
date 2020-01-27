@@ -1,3 +1,6 @@
+---
+permalink: /session/testing_evidence
+---
 # Testing as Evidence
 Last reviewed **15 March 2019** by **Crispin Read**
 

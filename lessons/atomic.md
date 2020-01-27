@@ -1,5 +1,5 @@
 ---
-permalink: /lessons/atomic
+permalink: /session/atomic
 ---
 # Atomic Design
 Last reviewed **23 June 2019** by **Andy Fowlston**

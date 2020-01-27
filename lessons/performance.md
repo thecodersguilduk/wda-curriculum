@@ -1,5 +1,5 @@
 ---
-permalink: /lessons/performance
+permalink: /session/performance
 ---
 # Performance
 Last reviewed **24 April 2019** by **Crispin Read**

@@ -1,5 +1,5 @@
 ---
-permalink: /lessons/source_control
+permalink: /session/source_control
 ---
 # Source control
 Last reviewed **04 Sept 2019** by **Crispin Read**

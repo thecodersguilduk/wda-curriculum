@@ -1,5 +1,5 @@
 ---
-permalink: /lessons/qa
+permalink: /session/qa
 ---
 # Quality Assurance
 Last reviewed **27 June 2018** by **Crispin Read**
