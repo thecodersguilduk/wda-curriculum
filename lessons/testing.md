@@ -2,7 +2,7 @@
 permalink: /session/testing
 ---
 # Introduction to Testing
-Last reviewed **15 March 2019** by **Crispin Read**
+Last reviewed **13 Feb 2020** by **Crispin Read**
 
 ## Description
 A general introduction to testing for web development. We'll be looking at what different sorts of testing there are, why we test, what we test and how we test. We'll also look at how to develop a test plan and how to test websites practically, usefully and well.
