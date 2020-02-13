@@ -1,5 +1,5 @@
 ---
-permalink: /session/testing_intro
+permalink: /session/testing
 ---
 # Introduction to Testing
 Last reviewed **15 March 2019** by **Crispin Read**
