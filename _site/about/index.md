@@ -4,9 +4,9 @@ title: The Coders Guild
 carousel:
   fade: true
   items:
-    - image: /images/01.jpg
-    - image: /images/02.jpg
-    - image: /images/03.jpg
+    - image: /images/slides/01.jpg
+    - image: /images/slides/02.jpg
+    - image: /images/slides/03.jpg
 navtitle: About
 ---
 # The Coders Guild
