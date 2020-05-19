@@ -1,37 +1,31 @@
 {
-  "title": "Seven",
-  "description": "<p class=\"page-section-text text-light\">An <a class=\"text-warning font-weight-bold\" href=\"https://www.11ty.io/\">eleventy</a> template based on <a class=\"text-warning font-weight-bold\" href=\"http://www.raybo.org/bootstrap4layouts/\">bootstrap4layouts</a>. Includes webpack, sass version of bootstrap, vue.js powered search and a whole lot more.</p><div><a class=\"btn btn-lg btn-outline-light\" href=\"https://github.com/planetoftheweb/seven\">Github Repo</a></div>'",
+  "title": "Curriculum",
+  "description": "<p class=\"page-section-text text-light\">The nations first <strong>industry led</strong> digital arenticeship, founded and run by <a class=\"text-warning font-weight-bold\" href=\"https://thecodersguild.org.uk/\">The Coders Guild</a>. 18 month socurse developing all the necessary skills, knowledge and behavious need to become a great web developer.</p><div><a class=\"btn btn-lg btn-outline-light\" href=\"https://github.com/planetoftheweb/seven\">Github Repo</a></div>'",
   "url": "seventy.tech",
   "feed": {
-    "summary": "An Eleventy theme based on <a href=\"http://getbootstrap.com/\">bootstrap</a> and bootstrap4layouts",
+    "summary": "The nations first <strong>industry led</strong> digital arenticeship, founded and run by <a class=\"text-warning font-weight-bold\" href=\"https://thecodersguild.org.uk/\">The Coders Guild</a>.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "url": "https://raybo.org/seven/feed/feed.xml",
-    "id": "https://raybo.org/seven"
+    "url": "https://curriculum.wdan.uk/feed.xml",
+    "id": "https://curriculum.wdan.uk"
   },
   "author": {
-    "name": "Ray Villalobos",
-    "bio": "Ray Villalobos is a Full Stack Web Development Author. He’s a full time Staff Author at LInkedIn Learning and Lynda.com.",
+    "name": "Crispin Read",
+    "bio": "Crispin Read is the founder and Director of The Coders Guild, Consultant, traininer, coach.",
     "social": [
       {
         "name": "github",
         "iconClass": "fab fa-github",
-        "url": "https://github.com/planetoftheweb"
+        "url": "https://github.com/thecodersguilduk"
       },
       {
         "name": "linkedin",
         "iconClass": "fab fa-linkedin",
-        "url": "https://linkedin.com/in/planetoftheweb"
+        "url": "https://www.linkedin.com/groups/8324305/"
       },
-      { "name": "twitter", "iconClass": "fab fa-twitter", "url": "https://twitter.com/planetoftheweb" },
-      { "name": "dribble", "iconClass": "fab fa-dribbble", "url": "https://dribbble.com/planetoftheweb" },
-      {
-        "name": "flickr",
-        "iconClass": "fab fa-flickr",
-        "url": "https://www.flickr.com/photos/planetoftheweb/sets/72157602932636630/"
-      },
-      { "name": "youtube", "iconClass": "fab fa-youtube", "url": "https://www.youtube.com/user/planetoftheweb" },
-      { "name": "instagram", "iconClass": "fab fa-instagram", "url": "https://www.instagram.com/iviewsource" }
+      { "name": "twitter", "iconClass": "fab fa-twitter", "url": "https://twitter.com/the_codersguild" },
+      { "name": "youtube", "iconClass": "fab fa-youtube", "url": "https://www.youtube.com/channel/UC_By6GiE5aVoMyoTLr5lGZA" },
+      { "name": "instagram", "iconClass": "fab fa-instagram", "url": "https://www.instagram.com/thecodersguild/" }
     ]
   }
 }
