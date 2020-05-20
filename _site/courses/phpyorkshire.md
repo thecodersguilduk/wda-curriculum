@@ -8,5 +8,4 @@ links:
 tags:
   - web developer
   - php
-date: 6-7th April
 ---
