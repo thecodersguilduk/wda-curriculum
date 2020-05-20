@@ -2,7 +2,7 @@
 layout: layouts/post-sidebar.njk
 hero: '/images/fe-js-training.jpg'
 title: 'Tech Seminars'
-summary: 'Proper training from real developers'
+summary: 'Building vocational technical skills and competencies with proper training from real developers.'
 sidebar: tech
 eleventyNavigation:
   key: tech

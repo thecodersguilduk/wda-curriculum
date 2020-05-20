@@ -2,7 +2,7 @@
 layout: layouts/post-sidebar.njk
 hero: /images/screenshot.gif
 title: 'Qualification Sessions'
-summary: To better understand the requirements of the qualification
+summary: 'Half day sessions to better understand the requirements of the qualification'
 sidebar: qual
 eleventyNavigation:
   key: qualification
