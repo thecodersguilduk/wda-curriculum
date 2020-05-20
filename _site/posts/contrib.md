@@ -2,8 +2,8 @@
 layout: layouts/post.njk
 title: "Contribution to Open Source Projects"
 summary: "Open Source projects are only possible because developers like you contribute their time and expertise. You don't have to be a super experienced developer to have a positive impact and this session will introduce you to the mechanics and tools"
-hero: /images/posts/json.png
-thumb: /images/posts/jsonarticle_tn.png
+hero: /images/workshops/bootcamp.jpg
+thumb: /images/workshops/opensource_tn.jpg
 tags:
   - open source
   - web development

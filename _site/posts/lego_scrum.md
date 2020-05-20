@@ -2,8 +2,8 @@
 layout: layouts/post.njk
 title: "Lego SCRUM!"
 summary: "We'll be learning about agile planning and delivery with SCRUM but using Lego instead of code. break out into teams to define and build a product in sprints."
-hero: /images/posts/threethings.jpg
-thumb: /images/posts/threethings_tn.png
+hero: /images/workshops/lego.jpg
+thumb: /images/workshops/lego_tn.jpg
 tags:
   - agile
   - planning

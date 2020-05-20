@@ -2,8 +2,8 @@
 layout: layouts/post.njk
 title: 'Testing with Behat'
 summary: "Behat is a tool that makes behaviour driven development (BDD) possible. With BDD, you write human-readable stories that describe the behaviour of your application. These stories can then be auto-tested against your application."
-hero: /images/wo/behat.jpg
-thumb: /images/posts/behat_tn.jpg
+hero: /images/workshops/behat.jpg
+thumb: /images/workshops/behat_tn.jpg
 tags:
   - web designer
   - web developer
