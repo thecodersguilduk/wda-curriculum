@@ -12,7 +12,6 @@ tags:
   - web designer
   - web developer
   - .net
-  - c#
   - azure
   - microsoft
 ---
