@@ -2,8 +2,8 @@
 layout: layouts/post.njk
 title: "REST API"
 summary: "Learning how to plan, build and integrate with your own private API."
-hero: /images/posts/ignite.jpg
-thumb: /images/posts/ignite_tn.png
+hero: /images/workshops/restapi.jpg
+thumb: /images/workshops/restapi_tn.jpg
 tags:
   - api
   - rest api

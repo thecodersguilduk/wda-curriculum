@@ -2,8 +2,8 @@
 layout: layouts/post.njk
 title: "Security"
 summary: "Building sites and applications that are secure is paramount. In this session we'll be looking at how to recognise vulnerabilities in existing developments, how these could be exploited and, of course, how to fix and guard against attacks."
-hero: /images/posts/effectivevideo.jpg
-thumb: /images/posts/effectivevideo_tn.png
+hero: /images/workshops/security.jpg
+thumb: /images/workshops/security_tn.jpg
 tags:
   - security
   - testing

@@ -2,8 +2,8 @@
 layout: layouts/post.njk
 title: "Building a Front End App With React"
 summary: "We will cover front end development in JavaScript, in particular using React to build a front end application"
-hero: /images/posts/resiliency.png
-thumb: /images/posts/resiliency_tn.png
+hero: /images/workshops/react.jpg
+thumb: /images/workshops/react_tn.jpg
 tags:
   - react
   - javascript
