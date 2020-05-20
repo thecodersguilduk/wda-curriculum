@@ -20,3 +20,5 @@ This ensures all our content is as current and relevant as possible.
 1. Update last reviewed info
 1. Push branch
 1. Create PR and tag or ping one of the team for a review and merge
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/20e6d75e-93f3-4472-be02-eb522df12bbc/deploy-status)](https://app.netlify.com/sites/stoic-wescoff-52faa9/deploys)

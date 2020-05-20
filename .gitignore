@@ -1,2 +1,9 @@
 *.idea
 *.DS_Store
+node_modules
+dist
+build
+_site/css/*.css
+_site/css/*.css.map
+_site/js/script.js
+.vscode/

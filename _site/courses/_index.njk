@@ -1,0 +1,23 @@
+---
+layout: layouts/page.njk
+hero: https://lil-cdn.com/585273/computing-floating-apps-226149059.jpg
+tags:
+  - nav
+pagination:
+  data: collections.courses
+  size: 10
+navtitle: Field Trips
+iconclass: fas fa-graduation-cap
+permalink: /courses/{{pagination.pageNumber}}/
+eleventyNavigation:
+  key: field trips
+  parent: main
+  order: 1
+
+---
+{% include "includes/pagination.njk" %}
+{%- for item in pagination.items %}
+  {% include "includes/items.njk" %}
+{% endfor -%}
+{% include "includes/pagination.njk" %}
+
