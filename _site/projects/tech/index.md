@@ -1,8 +1,8 @@
 ---
 layout: layouts/post-sidebar.njk
-hero: /images/screenshot.gif
+hero: '/images/fe-js-training.jpg'
 title: 'Tech Seminars'
-summary: technical traiing   from propoer experts
+summary: 'Proper training from real developers'
 sidebar: tech
 eleventyNavigation:
   key: tech
@@ -11,4 +11,4 @@ eleventyNavigation:
 
 # Tech Seminars
 
-These sessions ar ethe baseline of the technical curriculum, you will learn the fundemental skills and tools needed to become a developer. We will also be reinforcing core skills development of essential skills, knowledge and behaviours.
+These sessions are the baseline of the technical curriculum, you will learn the fundemental skills and tools needed to become a developer. We will also be reinforcing core skills development of essential skills, knowledge and behaviours.
