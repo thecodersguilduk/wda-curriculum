@@ -2,7 +2,7 @@
 layout: layouts/post-sidebar.njk
 title: 'Accessibility'
 sidebar: tech
-summary: 
+summary: 'Evrything we build should be accessible to users of assistive technologies'
 eleventyNavigation:
   key: accessibility
   title: 'Accessibility'
