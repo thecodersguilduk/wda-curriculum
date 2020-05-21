@@ -27,9 +27,71 @@
   <body class="position-relative" data-spy="scroll" data-target=".site-nav" data-offset="55">
     {% include "includes/navbar.njk" %}
     {{ content | safe }}
-    <footer class="site-footer bg-transparent pb-3 pb-md-5">
-      {% include "includes/social.njk" %}
-    </footer>
+
+    <!-- Footer -->
+<footer class="page-footer font-small cyan darken-3">
+
+  <!-- Footer Elements -->
+  <div class="container">
+  <div class="row justify-content-center">
+            <div class="col-md-5">
+              <div class="card mb-4 box-shadow logo-pane wda-logo">
+                <a href="https://webdevapprentice.uk"><img src="/images/WDA_Logo_Blue.svg" alt="Web Dev Apprentic Logo"/></a>
+                
+              </div>
+            </div>
+            <div class="col-md-5">
+              <div class="card mb-4 box-shadow logo-pane tcg-logo">
+                <a href="https://thecodersguild.org.uk"><img src="/images/The_Coders_Guild_Logo.svg" alt="The Coders Guild Logo"/></a>
+              </div>
+            </div>
+          </div>
+
+    <!-- Grid row-->
+    <div class="row flex-center">
+
+      <!-- Grid column -->
+      <div class="col-md-12 py-5">
+        <div class="mb-5 flex-center" style="text-align:center">
+
+          <!--GitHub-->
+          <a class="gh-ic" target="_blank" href="https://github.com/thecodersguilduk">
+            <i class="fab fa-github fa-lg white-text mr-md-5 fa-2x"> </i>
+          </a>
+          <!-- Twitter -->
+          <a class="tw-ic" target="_blank" href="https://twitter.com/the_codersguild">
+            <i class="fab fa-twitter fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
+          </a>
+          <!--Linkedin -->
+          <a class="li-ic" target="_blank" href="https://www.linkedin.com/groups/8324305/">
+            <i class="fab fa-linkedin-in fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
+          </a>
+          <!--Instagram-->
+          <a class="ins-ic"  target="_blank" href="https://www.instagram.com/thecodersguild/">
+            <i class="fab fa-instagram fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
+          </a>
+          <!--YouTube-->
+          <a class="yt-ic" target="_blank" href="https://www.youtube.com/channel/UC_By6GiE5aVoMyoTLr5lGZA">
+            <i class="fab fa-youtube fa-lg white-text fa-2x"> </i>
+          </a>
+        </div>
+      </div>
+      <!-- Grid column -->
+
+    </div>
+    <!-- Grid row-->
+
+  </div>
+  <!-- Footer Elements -->
+
+  <!-- Copyright -->
+  <div class="footer-copyright text-center py-3">© 2020 Copyright:
+    <a href="https://thecodersguild.org.uk"> The Coders Guild</a> Reg England and Wales: 9622444 UKPRN 10058030
+  </div>
+  <!-- Copyright -->
+
+</footer>
+<!-- Footer -->
   </body>
 
 </html>
