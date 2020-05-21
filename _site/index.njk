@@ -7,14 +7,29 @@ eleventyNavigation:
 
 {% set postslist = collections.posts | head(4) %}
 {% set courselist = collections.courses | head(2) %}
-
-<div class="row">
-  <div class="main-content col-md-9">
+<div class="row justify-content-center">
+  <div class="col-md-10">
     <h2>Intro</h2>
     <p>
-      This curriculum forms the basis of the Web Dev Apprenticeship Scheme. For more info, to apply or find an apprentice, please visit <a href="https://webdevapprentice.uk">webdevapprentice.uk</a> or <a class="text-warning font-weight-bold" href="https://thecodersguild.org.uk/">The Coders Guild</a>
+      This curriculum forms the basis of the Web Dev Apprenticeship Scheme. For more info, to apply or find an apprentice, please visit <a href="https://webdevapprentice.uk">WebDevApprentice.uk</a> or <a class="text-warning font-weight-bold" href="https://thecodersguild.org.uk/">TheCodersGuild.org.uk</a>
     </p>
-    <a href="https://webdevapprentice.uk"><img src="/images/WDA_Logo_Blue.svg" alt="Web Dev Apprentic Logo"/></a>
+  </div>
+</div>
+<div class="row justify-content-center">
+            <div class="col-md-5">
+              <div class="card mb-4 box-shadow logo-pane wda-logo">
+                <a href="https://webdevapprentice.uk"><img src="/images/WDA_Logo_Blue.svg" alt="Web Dev Apprentic Logo"/></a>
+                
+              </div>
+            </div>
+            <div class="col-md-5">
+              <div class="card mb-4 box-shadow logo-pane tcg-logo">
+                <a href="https://thecodersguild.org.uk"><img src="/images/The_Coders_Guild_Logo.svg" alt="The Coders Guild Logo"/></a>
+              </div>
+            </div>
+          </div>
+<div class="row">
+  <div class="main-content col-md-9">
     <h4 class="family-sans text-secondary mt-2 mb-4 px-3 px-sm-0">Latest Workshops</h4>
     {%- for item in postslist %}
     {% include "includes/items.njk" %}
