@@ -13,7 +13,7 @@ tags:
   - accessibility
 ---
 # Accessibility
-Last reviewed **09 July 2018** by **Crispin Read**
+Last reviewed **09 Jan 2021** by **Crispin Read**
 
 ## Description
 Web for all! We'll be finding out about accessibility in web and software development - what it means and why it is important. We'll look at disability in context and the various assistive technologies we can be preparing for. From am practical perspective we'll look through code, testing it and highlighting areas for improvement.
