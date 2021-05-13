@@ -13,7 +13,7 @@ tags:
   - dependancy
 ---
 # Dependency and package management.
-Last reviewed **13 December 2018** by **Daniel Harper**
+Last reviewed **13 December 2020** by **Alex Seymour**
 
 ## Description
 An overview of why and how we use dependency and package management in JS and PHP.
@@ -59,11 +59,55 @@ Additional to the training session, to be completed in apprentices own time (non
 
 ## Resources / Reference
 
-  1. Slides: [Intro Slides on Google Drive](#)
-  1. Demo: [Demo on YouTube](#)
-  1. Article: [Blog post](#)
+  1. Slides: [Slides on Google Drive](#)
 
-## Trainer Resources
 
-  1. [Completed code challenge](#)
-  1. [Training notes](#)
+
+## Skills, Knowledge, Behaviours and Values
+
+### Technical Skills
+
+This workshop is designed to develop the following technical skills:
+
+* JavaScript
+* php
+* Testing
+
+### Core Skills
+
+This workshop is designed to develop the following from our **core skills** directive
+
+* Prioritisation
+* Communication
+* Teamwork
+
+
+### Apprenticeship Standard
+
+This workshop will encourage the development of the following from the [Software Developer Level 4 Standard](https://www.instituteforapprenticeships.org/apprenticeship-standards/software-developer/)
+
+#### COMPETENCIES (Skills)
+
+ * C4 - Test: can test code and analyse results to correct errors found using either V-model manual testing and/or using unit testing.
+ * C5 - Problem solving: can apply structured techniques to problem solving, can debug code and can understand the structure of programmes in order to identify and resolve issues.
+ * C8 - Deployment: can understand and utilise skills to build, manage and deploy code into enterprise environments.
+ * C9 - Development lifecycle: can operate at all stages of the software development lifecycle, with increasing breadth and depth over time with initial focus on build and test.
+ * C11 - Can interpret and follow:
+    * software designs and functional/technical specifications 
+    * company defined ‘coding standards’ or industry good practice for coding 
+    * testing frameworks and methodologies 
+    * company, team or client approaches to continuous integration, version and source control 
+
+
+#### BEHAVIOURS 
+ * B1  - Logical and creative thinking skills.
+ * B2  - Analytical and problem-solving skills.
+ * B5  - A thorough and organised approach.
+ * B8  - Maintain productive, professional and secure working environment.
+
+#### Knowledge
+
+ * K3 - Understands how teams work effectively to produce software and contributes appropriately.
+ * K4 - Understands and applies software design approaches and patterns and can interpret and implement a given design, compliant with security and maintainability requirements.
+ * K5 - Understands and responds to the business environment and business issues related to software development.
+
