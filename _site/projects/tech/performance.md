@@ -14,7 +14,7 @@ tags:
   - performance
 ---
 # Performance
-Last reviewed **24 April 2019** by **Crispin Read**
+Last reviewed **13 November** by **Alex Seymour**
 
 ## Description
 In this session we will look at website performance, what it means and why it is important. We'll also be looking at some of the tools we can use to measure performance and what we should be looking to improve.
@@ -77,3 +77,67 @@ At the end of this training you will be able to:
 1. [Pingdom](https://tools.pingdom.com/)
 1. [Yslow](http://yslow.org/)
 1. Tutorial: [Setting up custom Audits with Lighthouse](https://www.aymen-loukil.com/en/blog-en/google-lighthouse-custom-audits/)
+2. 
+## Skills, Knowledge, Behaviours and Values
+
+### Technical Skills
+
+This workshop is designed to develop the following technical skills:
+
+* JavaScript
+* JAMStack
+* Static Site Generators
+* API
+* Json
+* Templating 
+* Data Storage
+* UX
+* Testing
+
+### Core Skills
+
+This workshop is designed to develop the following from our **core skills** directive
+
+* Estimation
+* Prioritisation
+* Presentation
+* Communication
+* Teamwork
+* Empathy
+
+### Apprenticeship Standard
+
+This workshop will encourage the development of the following from the [Software Developer Level 4 Standard](https://www.instituteforapprenticeships.org/apprenticeship-standards/software-developer/)
+
+#### COMPETENCIES (Skills)
+ * C4 - Test: can test code and analyse results to correct errors found using either V-model manual testing and/or using unit testing.
+ * C5 - Problem solving: can apply structured techniques to problem solving, can debug code and can understand the structure of programmes in order to identify and resolve issues.
+ * C11 - Can interpret and follow:
+    * software designs and functional/technical specifications 
+    * company defined ‘coding standards’ or industry good practice for coding 
+    * testing frameworks and methodologies 
+    * company, team or client approaches to continuous integration, version and source control 
+ * C12 - Can respond to the business environment and business issues related to software development.
+
+#### BEHAVIOURS 
+ * B1  - Logical and creative thinking skills.
+ * B2  - Analytical and problem-solving skills.
+ * B3  - Ability to work independently and to take responsibility.
+ * B4  - Can use own initiative.
+ * B5  - A thorough and organised approach.
+ * B6  - Ability to work with a range of internal and external people.
+ * B7  - Ability to communicate effectively in a variety of situations.
+
+
+#### Knowledge
+
+ * K3 - Understands how teams work effectively to produce software and contributes appropriately.
+ * K4 - Understands and applies software design approaches and patterns and can interpret and implement a given design, compliant with security and maintainability requirements.
+ * K5 - Understands and responds to the business environment and business issues related to software development.
+
+
+### Values
+Themes in this session explore the following values:
+* Equality & Diversity
+* The rule of law
+
