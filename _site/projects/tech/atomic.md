@@ -15,7 +15,7 @@ tags:
   - design
 ---
 # Atomic Design
-Last reviewed **23 June 2019** by **Andy Fowlston**
+Last reviewed **13 May ** by **Crispin Read**
 
 ## Description
 Pattern Lab helps you and your team build thoughtful, pattern-driven user interfaces using atomic design principles. A static site generator we can use as a framework for creating live style sheets for php or node projects.
@@ -66,3 +66,61 @@ At the end of this training you will be able to:
 1. [Content and display patterns](http://bradfrost.com/blog/link/content-and-display-patterns/)
 1. [The Atomic Design book](http://atomicdesign.bradfrost.com/ )
 1. [Pattern Lab roadmap to v3](https://github.com/pattern-lab/patternlab-node/issues/983)
+
+
+## Skills, Knowledge, Behaviours and Values
+
+### Technical Skills
+
+This workshop is designed to develop the following technical skills:
+
+* Design Patterns
+* Node.js
+* php
+* patternlab
+* Templating 
+* Prototyping
+* UX
+* Testing
+
+### Core Skills
+
+This workshop is designed to develop the following from our **core skills** directive
+
+* Presentation
+* Communication
+* Teamwork
+* Empathy
+
+### Apprenticeship Standard
+
+This workshop will encourage the development of the following from the [Software Developer Level 4 Standard](https://www.instituteforapprenticeships.org/apprenticeship-standards/software-developer/)
+
+#### COMPETENCIES (Skills)
+ * C2 - User interface: can develop effective user interfaces for at least one channel.
+ * C5 - Problem solving: can apply structured techniques to problem solving, can debug code and can understand the structure of programmes in order to identify and resolve issues.
+ * C6 - Design: can create simple data models and software designs to effectively communicate understanding of the program, following best practices and standards.
+ * C7 - Analysis: can understand and create basic analysis artefacts, such as user cases and/or user stories.
+ * C9 - Development lifecycle: can operate at all stages of the software development lifecycle, with increasing breadth and depth over time with initial focus on build and test.
+ * C11 - Can interpret and follow:
+    * software designs and functional/technical specifications 
+    * company defined ‘coding standards’ or industry good practice for coding 
+    * testing frameworks and methodologies 
+    * company, team or client approaches to continuous integration, version and source control 
+
+
+
+#### BEHAVIOURS 
+ * B1  - Logical and creative thinking skills.
+ * B2  - Analytical and problem-solving skills.
+ * B5  - A thorough and organised approach.
+
+
+#### Knowledge
+ * K1 - Understands and operates at all stages of the software development lifecycle.
+ * K3 - Understands how teams work effectively to produce software and contributes appropriately.
+ * K4 - Understands and applies software design approaches and patterns and can interpret and implement a given design, compliant with security and maintainability requirements.
+ * K5 - Understands and responds to the business environment and business issues related to software development.
+
+
+
