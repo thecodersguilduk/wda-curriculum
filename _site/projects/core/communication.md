@@ -45,18 +45,48 @@ At the end of this training you will be able to:
  - https://www.thebalancecareers.com/communication-skills-list-2063779 
  - Book - Bridging the Communication Gap – Gojko Adzic 
 
-## Standards and Values
+## Skills, Knowledge, Behaviours and Values
 
-### COMPETENCIES (Skills)
+### Technical Skills
+
+This workshop is designed to develop the following technical skills:
+
+* JavaScript
+* JAMStack
+* Static Site Generators
+* API
+* Json
+* Templating 
+* Data Storage
+* UX
+* Testing
+
+### Core Skills
+
+This workshop is designed to develop the following from our **core skills** directive
+
+* Estimation
+* Prioritisation
+* Presentation
+* Communication
+* Teamwork
+* Empathy
+
+### Apprenticeship Standard
+
+This workshop will encourage the development of the following from the [Software Developer Level 4 Standard](https://www.instituteforapprenticeships.org/apprenticeship-standards/software-developer/)
+
+
+#### COMPETENCIES (Skills)
  * C12 - Can respond to the business environment and business issues related to software development.
  * C13 - Can operate effectively in their own business’, their customers’ and the industry's environments.
 
-### BEHAVIOURS 
+#### BEHAVIOURS 
  * B6  - Ability to work with a range of internal and external people.
  * B7  - Ability to communicate effectively in a variety of situations.
  * B8  - Maintain productive, professional and secure working environment.
 
-### Knowledge
+#### Knowledge
  * K3 - Understands how teams work effectively to produce software and contributes appropriately.
  * K5 - Understands and responds to the business environment and business issues related to software development.
 
