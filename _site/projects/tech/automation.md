@@ -14,8 +14,8 @@ tags:
   - automation
 ---
 
-# Lesson Plan Template
-Last reviewed **25 September 2019** by **Alex Seymour**
+# Automation
+Last reviewed **25 September 2020** by **Alex Seymour**
 
 ## Description
 This lesson is structured around what automation is and has an introduction to tools that can be used to automate parts of a process or tools that will help a developer be more efficient.
@@ -55,6 +55,57 @@ To be completed as part of this traiing session
 
   1. Slides: [Intro Slides on Google Drive](https://docs.google.com/presentation/d/1v3mYZnzO-H62539ZjulyqMeWtF5suVJAQyQHZBE4S3s/edit#slide=id.g602cb96396_3_0)
 
-## Trainer Resources
 
-  1. [Training notes](#)
+## Skills, Knowledge, Behaviours and Values
+
+### Technical Skills
+
+This workshop is designed to develop the following technical skills:
+
+* JavaScript
+* JAMStack
+* Static Site Generators
+* API
+* Json
+* Templating 
+* Data Storage
+* UX
+* Testing
+
+### Core Skills
+
+This workshop is designed to develop the following from our **core skills** directive
+
+* Estimation
+* Prioritisation
+* Presentation
+* Communication
+* Teamwork
+* Empathy
+
+### Apprenticeship Standard
+
+This workshop will encourage the development of the following from the [Software Developer Level 4 Standard](https://www.instituteforapprenticeships.org/apprenticeship-standards/software-developer/)
+
+#### COMPETENCIES (Skills)
+ * C1  - Logic: writes good quality code (logic) with sound syntax in at least one language.
+ * C5 - Problem solving: can apply structured techniques to problem solving, can debug code and can understand the structure of programmes in order to identify and resolve issues.
+ * C8 - Deployment: can understand and utilise skills to build, manage and deploy code into enterprise environments.
+ * C9 - Development lifecycle: can operate at all stages of the software development lifecycle, with increasing breadth and depth over time with initial focus on build and test..
+ * C12 - Can respond to the business environment and business issues related to software development.
+
+
+#### BEHAVIOURS 
+ * B1  - Logical and creative thinking skills.
+ * B2  - Analytical and problem-solving skills.
+ * B3  - Ability to work independently and to take responsibility.
+ * B7  - Ability to communicate effectively in a variety of situations.
+ * B8  - Maintain productive, professional and secure working environment.
+
+#### Knowledge
+ * K1 - Understands and operates at all stages of the software development lifecycle.
+ * K3 - Understands how teams work effectively to produce software and contributes appropriately.
+ * K4 - Understands and applies software design approaches and patterns and can interpret and implement a given design, compliant with security and maintainability requirements.
+ * K5 - Understands and responds to the business environment and business issues related to software development.
+
+
