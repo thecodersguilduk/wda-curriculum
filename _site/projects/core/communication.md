@@ -44,3 +44,24 @@ At the end of this training you will be able to:
 ## Resources
  - https://www.thebalancecareers.com/communication-skills-list-2063779 
  - Book - Bridging the Communication Gap – Gojko Adzic 
+
+## Standards and Values
+
+### COMPETENCIES (Skills)
+ * C12 - Can respond to the business environment and business issues related to software development.
+ * C13 - Can operate effectively in their own business’, their customers’ and the industry's environments.
+
+### BEHAVIOURS 
+ * B6  - Ability to work with a range of internal and external people.
+ * B7  - Ability to communicate effectively in a variety of situations.
+ * B8  - Maintain productive, professional and secure working environment.
+
+### Knowledge
+ * K3 - Understands how teams work effectively to produce software and contributes appropriately.
+ * K5 - Understands and responds to the business environment and business issues related to software development.
+
+### Values
+* Equality & Diversity
+* Democracy
+* Individual liberty
+* Mutual respect for and tolerance of those with different faiths and beliefs, and for those without faith.
