@@ -14,7 +14,7 @@ tags:
   - impact
 ---
 # Impact Mapping
-Last reviewed **26 June 2018** by **Crispin Read**
+Last reviewed **12 April 2021** by **Crispin Read**
 
 ## Description
 **Making better decisions about development.**
@@ -72,3 +72,58 @@ At the end of this training you will be able to:
 1. [Drawing Impact Maps](https://www.impactmapping.org/drawing.html)
 1. [Impact Mapping in Practice Pt 1](https://blog.byndyusoft.com/impact-mapping-in-practice-part-1-f9e402151e63)
 1. [Impact Mapping in Practice Pt 2](https://blog.byndyusoft.com/impact-mapping-in-practice-part-2-86a43dd15aaf)
+
+
+## Skills, Knowledge, Behaviours and Values
+
+### Technical Skills
+
+This workshop is designed to develop the following technical skills:
+
+* Planning
+
+### Core Skills
+
+This workshop is designed to develop the following from our **core skills** directive
+
+
+* Prioritisation
+* Presentation
+* Communication
+* Teamwork
+* Empathy
+
+### Apprenticeship Standard
+
+This workshop will encourage the development of the following from the [Software Developer Level 4 Standard](https://www.instituteforapprenticeships.org/apprenticeship-standards/software-developer/)
+
+#### COMPETENCIES (Skills)
+ * C6 - Design: can create simple data models and software designs to effectively communicate understanding of the program, following best practices and standards.
+ * C7 - Analysis: can understand and create basic analysis artefacts, such as user cases and/or user stories.
+ * C9 - Development lifecycle: can operate at all stages of the software development lifecycle, with increasing breadth and depth over time with initial focus on build and test.
+ * C11 - Can interpret and follow:
+    * software designs and functional/technical specifications 
+    * company defined ‘coding standards’ or industry good practice for coding 
+    * testing frameworks and methodologies 
+    * company, team or client approaches to continuous integration, version and source control 
+ * C12 - Can respond to the business environment and business issues related to software development.
+ * C13 - Can operate effectively in their own business’, their customers’ and the industry's environments.
+
+
+
+#### BEHAVIOURS 
+ * B1  - Logical and creative thinking skills.
+ * B2  - Analytical and problem-solving skills.
+ * B5  - A thorough and organised approach.
+ * B6  - Ability to work with a range of internal and external people.
+ * B7  - Ability to communicate effectively in a variety of situations.
+
+
+#### Knowledge
+ * K1 - Understands and operates at all stages of the software development lifecycle.
+ * K3 - Understands how teams work effectively to produce software and contributes appropriately.
+ * K4 - Understands and applies software design approaches and patterns and can interpret and implement a given design, compliant with security and maintainability requirements.
+ * K5 - Understands and responds to the business environment and business issues related to software development.
+
+
+
