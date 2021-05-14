@@ -15,7 +15,7 @@ tags:
   - git
 ---
 # Source control
-Last reviewed **04 Sept 2019** by **Crispin Read**
+Last reviewed **04 April** by **Crispin Read**
 
 ## Description
 In this session we'll learn more about change management and version control using git. In particular we'll be looking at some of the more common workflows that sit alongside source control.
