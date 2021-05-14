@@ -14,7 +14,7 @@ tags:
   - ucd
 ---
 # User Centred Development
-Last reviewed **23 Juan 2019** by **Crispin Read**
+Last reviewed **23 JOct 2020** by **Crispin Read**
 
 ## Description
 User Centred Development (UCD or User-Centered Design) is not really a set of methodologies but a philosophy or paradigm that a development team can follow. We'll take a look at some UX principles that can positively influence and guide our decisions as developers.
@@ -79,3 +79,54 @@ At the end of this training you will be able to:
 1. [User-centred design (UCD) - 6 methods](https://www.webcredible.com/blog/user-centered-design-ucd-6-methods/)
 1. Usability.gov: [User-Centered Design Process Map](https://www.usability.gov/how-to-and-tools/resources/ucd-map.html)
 1. Usability.gov: [User-Centered Design Basics](https://www.usability.gov/what-and-why/user-centered-design.html)
+
+
+## Skills, Knowledge, Behaviours and Values
+
+### Technical Skills
+
+This workshop is designed to develop the following technical skills:
+
+* UX
+* Testing
+
+### Core Skills
+
+This workshop is designed to develop the following from our **core skills** directive
+
+* Estimation
+* Prioritisation
+* Presentation
+* Communication
+* Teamwork
+* Empathy
+
+### Apprenticeship Standard
+
+This workshop will encourage the development of the following from the [Software Developer Level 4 Standard](https://www.instituteforapprenticeships.org/apprenticeship-standards/software-developer/)
+
+#### COMPETENCIES (Skills)
+ * C4 - Test: can test code and analyse results to correct errors found using either V-model manual testing and/or using unit testing.
+ * C7 - Analysis: can understand and create basic analysis artefacts, such as user cases and/or user stories.
+
+#### BEHAVIOURS 
+ * B1  - Logical and creative thinking skills.
+ * B2  - Analytical and problem-solving skills.
+ * B3  - Ability to work independently and to take responsibility.
+ * B4  - Can use own initiative.
+ * B5  - A thorough and organised approach.
+ * B7  - Ability to communicate effectively in a variety of situations.
+
+
+#### Knowledge
+ * K1 - Understands and operates at all stages of the software development lifecycle.
+ * K3 - Understands how teams work effectively to produce software and contributes appropriately.
+ * K5 - Understands and responds to the business environment and business issues related to software development.
+
+
+### Values
+Themes in this session explore the following values:
+* Equality & Diversity
+* Democracy
+* The rule of law
+
