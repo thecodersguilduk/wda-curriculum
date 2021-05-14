@@ -86,6 +86,50 @@ Supplement your learning and provide additional evidence by completing some of t
   1. [10 great tutorials for learning Git](https://medium.com/quick-code/top-tutorials-to-learn-git-for-beginners-622289ffdfe5)
 
 
-## Trainer Resources
 
-  1. [Training notes](https://docs.google.com/document/d/1EFupWEre6Peep3Xbvj7hJhh-C96Yocf8UgAk8bYV8iU/edit#)
+## Skills, Knowledge, Behaviours and Values
+
+### Technical Skills
+
+This workshop is designed to develop the following technical skills:
+
+* JavaScript
+* php
+* Git
+
+### Core Skills
+
+This workshop is designed to develop the following from our **core skills** directive
+
+* Communication
+* Teamwork
+* Empathy
+
+### Apprenticeship Standard
+
+This workshop will encourage the development of the following from the [Software Developer Level 4 Standard](https://www.instituteforapprenticeships.org/apprenticeship-standards/software-developer/)
+
+#### COMPETENCIES (Skills)
+ * C8 - Deployment: can understand and utilise skills to build, manage and deploy code into enterprise environments.
+ * C9 - Development lifecycle: can operate at all stages of the software development lifecycle, with increasing breadth and depth over time with initial focus on build and test.
+ * C11 - Can interpret and follow:
+    * software designs and functional/technical specifications 
+    * company defined ‘coding standards’ or industry good practice for coding 
+    * testing frameworks and methodologies 
+    * company, team or client approaches to continuous integration, version and source control 
+ * C12 - Can respond to the business environment and business issues related to software development.
+ * C13 - Can operate effectively in their own business’, their customers’ and the industry's environments.
+
+
+
+#### BEHAVIOURS 
+ * B1  - Logical and creative thinking skills.
+ * B2  - Analytical and problem-solving skills.
+
+
+#### Knowledge
+
+ * K3 - Understands how teams work effectively to produce software and contributes appropriately.
+ * K5 - Understands and responds to the business environment and business issues related to software development.
+
+
