@@ -7,7 +7,7 @@ eleventyNavigation:
   key: impact
   title: 'Impact Mapping'
   parent: tech
-  order: 2
+  order: 70
 tags:
   - seminar
   - tech
@@ -75,12 +75,6 @@ At the end of this training you will be able to:
 
 
 ## Skills, Knowledge, Behaviours and Values
-
-### Technical Skills
-
-This workshop is designed to develop the following technical skills:
-
-* Planning
 
 ### Core Skills
 

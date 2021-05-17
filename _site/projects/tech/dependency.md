@@ -4,13 +4,13 @@ title: 'Dependancy Management'
 sidebar: tech
 summary: 
 eleventyNavigation:
-  key: dependancy
-  title: 'Dependancy Management'
+  key: dependency
+  title: 'Dependency Management'
   parent: tech
-  order: 2
+  order: 80
 tags:
   - tech
-  - dependancy
+  - dependency
 ---
 # Dependency and package management.
 Last reviewed **13 December 2020** by **Alex Seymour**
@@ -30,7 +30,6 @@ At the end of this training you will be able to:
 ## Learner Requirements
 Before starting this session you will need:
   1. A working lamp stack (Cloud 9)
-  1.
 
 ## Outline
 An overview of the session should mirror slide deck
@@ -38,7 +37,7 @@ An overview of the session should mirror slide deck
   1. What are they
   1. Introduction to Composer
       - Installing
-      - Commnads
+      - Commands
       - Packagist
   1. Solving problems with Composer
       - Read a csv file
@@ -47,12 +46,12 @@ An overview of the session should mirror slide deck
   1. Introduction to NPM
 
 ## Tasks
-To be completed as part of this traiing session
+To be completed as part of this training session
   1. Link to Glitch
   1. Link to repo on GitHub
 
 ### Further Tasks
-Additional to the training session, to be completed in apprentices own time (non mandetory).
+Additional to the training session, to be completed in apprentices own time (non mandatory).
   1. Additional versions of session tasks for your project
   1. Additional versions of session tasks for something at work
   1. Link to challenge repo on GitHub
@@ -65,22 +64,16 @@ Additional to the training session, to be completed in apprentices own time (non
 
 ## Skills, Knowledge, Behaviours and Values
 
-### Technical Skills
-
-This workshop is designed to develop the following technical skills:
-
-* JavaScript
-* php
-* Testing
-
 ### Core Skills
 
 This workshop is designed to develop the following from our **core skills** directive
 
-* Prioritisation
 * Communication
+* Estimation
+* Summarisation
+* Presentation
+* Research
 * Teamwork
-
 
 ### Apprenticeship Standard
 

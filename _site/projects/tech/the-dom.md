@@ -4,70 +4,80 @@ title: 'Automation'
 sidebar: tech
 summary: 
 eleventyNavigation:
-  key: atomic
-  title: 'Automation'
+  key: the-dom
+  title: 'The DOM'
   parent: tech
-  order: 90
+  order: 160
 tags:
   - seminar
   - tech
-  - automation
+  - js
 ---
 
-# Automation
-Last reviewed **25 September 2020** by **Alex Seymour**
+# The DOM
+Last reviewed **25 Feb 2020** by **Alex Seymour**
 
-## Description
-This lesson is structured around what automation is and has an introduction to tools that can be used to automate parts of a process or tools that will help a developer be more efficient.
+Learners will be introduced to the DOM. They will be shown how to make javascript bring a page to life by reacting to events. The learners will be shown how to trigger function calls using on page events.
 
-### Why this is important
-Explain why learning this is useful in the working environment.
+## **Why this is important**
 
-## Outcomes
+Javascript is what brings a website to life. Being able to bind functions to document events is a fundamental part of being a web developer. This is the final lesson required to be able to create full UIs.
 
-At the end of this training you will be able to:
-  1. Understand this concept
-  1. Have knowledge of a few tools available the could start using immediately
+## **Outcomes**
 
-## Learner Requirements
-Before starting this session you will need:
-  1. A computer with access to terminal (windows machine will require putty)
-  1. A development environment on their computer.
+Following this training you will be able to: Bind document events to functions written in JS.
 
-## Outline
-An overview of the session should mirror slide deck
-  1. Intro to topic
-  1. Examples of automation
-  1. Explainations of each type of automation
-  1. Practical tasks to show each student how the tools work.
+## **Learner Requirements**
 
-## Tasks
-To be completed as part of this traiing session
-  1. https://www.npmjs.com/ - NPM, basic tutorial
-  1. https://getcomposer.org/ - Composer, basic tutorial
-  1. https://reactjs.org/tutorial/tutorial.html - Creating a react app with NPM
-  1. https://gulpjs.com/ - Adding gulp compiler to your dev environment
-  1. https://wppb.me/ - Online tool that creates a class wordpress plugin from a template
-  1. https://github.com/ahmadawais/create-guten-block - NPX tool that creates a gutenberg wordpress component
+VS code
 
+Github desktop
 
-## Resources / Reference
+## **Outline**
 
-  1. Slides: [Intro Slides on Google Drive](https://docs.google.com/presentation/d/1v3mYZnzO-H62539ZjulyqMeWtF5suVJAQyQHZBE4S3s/edit#slide=id.g602cb96396_3_0)
+ 1. Recap
+    1. Functions & Control Flow
+    2. Selectors
+       1. IDs & Classes
+       2. Nesting
+ 2. What is the DOM?
+ 3. Accessing the DOM
+ 4. querySelector()
+ 5. querySelectAll()
+ 6. Attributes
+ 7. CSS
+ 8. Events
+ 9. preventDefault
+10. Form values
+11. Tasks
 
+## **Tasks**
+
+### **Mandatory**
+
+1. Follow along with the demos throughout the session
+2. Javascript challenge
+
+### **Additional**
+
+## **Resources / Reference**
+
+N/A
 
 ## Skills, Knowledge, Behaviours and Values
+
 
 ### Core Skills
 
 This workshop is designed to develop the following from our **core skills** directive
 
-* Estimation
-* Prioritisation
 * Presentation
-* Communication
-* Teamwork
-* Empathy
+* Logic
+* Problem Solving
+* Reflection
+* Research
+* Learning from failure
+
 
 ### Apprenticeship Standard
 
@@ -93,5 +103,3 @@ This workshop will encourage the development of the following from the [Software
  * K3 - Understands how teams work effectively to produce software and contributes appropriately.
  * K4 - Understands and applies software design approaches and patterns and can interpret and implement a given design, compliant with security and maintainability requirements.
  * K5 - Understands and responds to the business environment and business issues related to software development.
-
-

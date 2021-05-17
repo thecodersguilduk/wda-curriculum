@@ -4,14 +4,14 @@ title: 'Testing'
 sidebar: tech
 summary: 
 eleventyNavigation:
-  key: debugging
-  title: 'Debugging'
+  key: testing
+  title: 'Intro to Testing'
   parent: tech
-  order: 2
+  order: 140
 tags:
   - seminar
   - tech
-  - debugging
+  - testing
 ---
 # Introduction to Testing
 Last reviewed **13 Feb 2021** by **Crispin Read**

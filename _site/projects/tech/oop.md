@@ -7,7 +7,7 @@ eleventyNavigation:
   key: oop
   title: 'OOP'
   parent: tech
-  order: 2
+  order: 20
 tags:
   - seminar
   - tech
@@ -66,15 +66,6 @@ At the end of this training you will be able to:
 1. [Vanilla design patterns](https://github.com/domnikl/DesignPatternsPHP)
 2. 
 ## Skills, Knowledge, Behaviours and Values
-
-### Technical Skills
-
-This workshop is designed to develop the following technical skills:
-
-* JavaScript
-* php
-* OOP
-
 
 ### Core Skills
 

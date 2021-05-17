@@ -4,70 +4,72 @@ title: 'Automation'
 sidebar: tech
 summary: 
 eleventyNavigation:
-  key: atomic
-  title: 'Automation'
+  key: loops-arrays-opjects
+  title: 'Loops, Arrays and Objects'
   parent: tech
-  order: 90
+  order: 170
 tags:
   - seminar
   - tech
-  - automation
+  - git
 ---
 
-# Automation
-Last reviewed **25 September 2020** by **Alex Seymour**
+# Loops, Arrays and Objects
+Last reviewed **08 March 2020** by **Crispin Read**
 
 ## Description
-This lesson is structured around what automation is and has an introduction to tools that can be used to automate parts of a process or tools that will help a developer be more efficient.
+This session learners will have loops explained to them. Learners will also be introduced to 2 data types in detail (arrays & objects). We will then work through some simple tasks to demonstrate when they will be used and how.
 
-### Why this is important
-Explain why learning this is useful in the working environment.
+## **Why this is important**
 
-## Outcomes
+Loops arrays and objects are all important entities when creating functional code. Understanding when it may be required and how to loop through data is vital knowledge for any developer.
 
-At the end of this training you will be able to:
-  1. Understand this concept
-  1. Have knowledge of a few tools available the could start using immediately
+## **Outcomes**
 
-## Learner Requirements
-Before starting this session you will need:
-  1. A computer with access to terminal (windows machine will require putty)
-  1. A development environment on their computer.
+Following this training you will be able to: Use arrays and objects in their code. Understand when a loop would be required and how to write one.
 
-## Outline
-An overview of the session should mirror slide deck
-  1. Intro to topic
-  1. Examples of automation
-  1. Explainations of each type of automation
-  1. Practical tasks to show each student how the tools work.
+## **Learner Requirements**
 
-## Tasks
-To be completed as part of this traiing session
-  1. https://www.npmjs.com/ - NPM, basic tutorial
-  1. https://getcomposer.org/ - Composer, basic tutorial
-  1. https://reactjs.org/tutorial/tutorial.html - Creating a react app with NPM
-  1. https://gulpjs.com/ - Adding gulp compiler to your dev environment
-  1. https://wppb.me/ - Online tool that creates a class wordpress plugin from a template
-  1. https://github.com/ahmadawais/create-guten-block - NPX tool that creates a gutenberg wordpress component
+VS code
 
+Github desktop
 
-## Resources / Reference
+## **Outline**
 
-  1. Slides: [Intro Slides on Google Drive](https://docs.google.com/presentation/d/1v3mYZnzO-H62539ZjulyqMeWtF5suVJAQyQHZBE4S3s/edit#slide=id.g602cb96396_3_0)
+1. Loops
+2. Demo/ Task
+3. Arrays
+4. Demo/ Task
+5. Objects
+6. Demo/ Task
+
+## **Tasks**
+
+### **Mandatory**
+
+1. Follow along with demo
+
+### **Additional**
+
+## **Resources / Reference**
+
+N/A
 
 
 ## Skills, Knowledge, Behaviours and Values
+
 
 ### Core Skills
 
 This workshop is designed to develop the following from our **core skills** directive
 
-* Estimation
-* Prioritisation
 * Presentation
-* Communication
-* Teamwork
-* Empathy
+* Logic
+* Problem Solving
+* Reflection
+* Research
+* Learning from failure
+
 
 ### Apprenticeship Standard
 
@@ -93,5 +95,3 @@ This workshop will encourage the development of the following from the [Software
  * K3 - Understands how teams work effectively to produce software and contributes appropriately.
  * K4 - Understands and applies software design approaches and patterns and can interpret and implement a given design, compliant with security and maintainability requirements.
  * K5 - Understands and responds to the business environment and business issues related to software development.
-
-

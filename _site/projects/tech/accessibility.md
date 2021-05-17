@@ -7,7 +7,7 @@ eleventyNavigation:
   key: accessibility
   title: 'Accessibility'
   parent: tech
-  order: 17
+  order: 110
 tags:
   - tech
   - accessibility
@@ -67,22 +67,16 @@ At the end of this training you will be able to:
 
 ## Skills, Knowledge, Behaviours and Values
 
-### Technical Skills
-
-This workshop is designed to develop the following technical skills:
-
-* Semantic Mark Up
-* Testing
-
 ### Core Skills
 
 This workshop is designed to develop the following from our **core skills** directive
 
-* Estimation
-* Prioritisation
-* Presentation
 * Communication
-* Teamwork
+* Presentation
+* Problem Solving
+* Reflection
+* Research
+* Learning from failure
 * Empathy
 
 ### Apprenticeship Standard

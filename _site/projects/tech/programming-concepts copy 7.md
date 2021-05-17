@@ -4,70 +4,95 @@ title: 'Automation'
 sidebar: tech
 summary: 
 eleventyNavigation:
-  key: atomic
-  title: 'Automation'
+  key: programming-concepts
+  title: 'Basic Programming Concepts'
   parent: tech
-  order: 90
+  order: 200
 tags:
   - seminar
   - tech
-  - automation
+  - js
 ---
 
-# Automation
-Last reviewed **25 September 2020** by **Alex Seymour**
+# Basic Programming Concepts
+Last reviewed **25 Jan 2021** by **Crispin Read**
 
 ## Description
-This lesson is structured around what automation is and has an introduction to tools that can be used to automate parts of a process or tools that will help a developer be more efficient.
+This session will introduce the learners to Javascript. They will learn about variables/ data types, the console and arithmetic operators
 
-### Why this is important
-Explain why learning this is useful in the working environment.
+## **Why this is important**
 
-## Outcomes
+This session will show the learners how to lay out their code and structure simple functional programmes. The purpose of this lesson is to help the learners understand how to think like a programmer/ talk to a computer.
 
-At the end of this training you will be able to:
-  1. Understand this concept
-  1. Have knowledge of a few tools available the could start using immediately
+## **Outcomes**
 
-## Learner Requirements
-Before starting this session you will need:
-  1. A computer with access to terminal (windows machine will require putty)
-  1. A development environment on their computer.
+Following this training you will be able to: Create very basic procedural code and explain the differences between the different data types and arithmetic operators available.
 
-## Outline
-An overview of the session should mirror slide deck
-  1. Intro to topic
-  1. Examples of automation
-  1. Explainations of each type of automation
-  1. Practical tasks to show each student how the tools work.
+## **Learner Requirements**
 
-## Tasks
-To be completed as part of this traiing session
-  1. https://www.npmjs.com/ - NPM, basic tutorial
-  1. https://getcomposer.org/ - Composer, basic tutorial
-  1. https://reactjs.org/tutorial/tutorial.html - Creating a react app with NPM
-  1. https://gulpjs.com/ - Adding gulp compiler to your dev environment
-  1. https://wppb.me/ - Online tool that creates a class wordpress plugin from a template
-  1. https://github.com/ahmadawais/create-guten-block - NPX tool that creates a gutenberg wordpress component
+VS code
 
+Github desktop
 
-## Resources / Reference
+## **Outline**
 
-  1. Slides: [Intro Slides on Google Drive](https://docs.google.com/presentation/d/1v3mYZnzO-H62539ZjulyqMeWtF5suVJAQyQHZBE4S3s/edit#slide=id.g602cb96396_3_0)
+1. What is Javascript?
+2. What can you do with Javascript
+3. How to apply Javascript to your website code
+4. Output methods
+5. Variables, Data types and Mathematical operators
+6. Task
+
+## **Tasks**
+
+### **Mandatory**
+
+**1 We’ll make a program to calculate a tip**
+
+1. Create variables for the pre-tip total and the tip percentage
+2. Calculate the new total
+3. Output a sentence to the page - something like:
+
+Your total bill, with tip, is £35.45
+
+BONUS POINTS:
+
+1. Use toFixed() to round the output to 2 decimal places
+2. Display the tip amount in the output as well
+
+**2 Extend the Tip program**
+
+1. Create variables for the pre-tip total and the tip percentage
+2. Calculate the new total
+3. Output a sentence to the page - something like:
+
+“Your total bill, with tip, is £35.45”
+
+Extension: round the figure to 2 DP and display the tip amount.
+
+### **Additional**
+
+Make a Procedural Function in Javascript.
+
+## **Resources / Reference**
+
+N/A
 
 
 ## Skills, Knowledge, Behaviours and Values
+
 
 ### Core Skills
 
 This workshop is designed to develop the following from our **core skills** directive
 
-* Estimation
-* Prioritisation
 * Presentation
-* Communication
-* Teamwork
-* Empathy
+* Logic
+* Problem Solving
+* Reflection
+* Research
+* Learning from failure
+
 
 ### Apprenticeship Standard
 
@@ -93,5 +118,3 @@ This workshop will encourage the development of the following from the [Software
  * K3 - Understands how teams work effectively to produce software and contributes appropriately.
  * K4 - Understands and applies software design approaches and patterns and can interpret and implement a given design, compliant with security and maintainability requirements.
  * K5 - Understands and responds to the business environment and business issues related to software development.
-
-

@@ -5,15 +5,15 @@ sidebar: tech
 summary: 
 eleventyNavigation:
   key: agile
-  title: 'Agile theory and Practice'
+  title: 'Agile Vs Waterfall'
   parent: tech
-  order: 2
+  order: 100
 tags:
   - seminar
   - tech
   - agile
 ---
-# Agile theory and Practice
+# Agile vs Waterfall
 Last reviewed **12 Jan 2021** by **Crispin Read**
 
 ## Description
@@ -65,13 +65,6 @@ Blog Post Suggestions
 
 
 ## Skills, Knowledge, Behaviours and Values
-
-### Technical Skills
-
-This workshop is designed to develop the following technical skills:
-
-* Agile planning
-* Testing
 
 ### Core Skills
 

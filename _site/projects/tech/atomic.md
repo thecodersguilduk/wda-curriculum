@@ -7,7 +7,7 @@ eleventyNavigation:
   key: atomic
   title: 'Atomic Design'
   parent: tech
-  order: 2
+  order: 30
 tags:
   - seminar
   - tech
@@ -15,7 +15,7 @@ tags:
   - design
 ---
 # Atomic Design
-Last reviewed **13 May ** by **Crispin Read**
+Last reviewed **13 May 2021** by **Crispin Read**
 
 ## Description
 Pattern Lab helps you and your team build thoughtful, pattern-driven user interfaces using atomic design principles. A static site generator we can use as a framework for creating live style sheets for php or node projects.
@@ -69,19 +69,6 @@ At the end of this training you will be able to:
 
 
 ## Skills, Knowledge, Behaviours and Values
-
-### Technical Skills
-
-This workshop is designed to develop the following technical skills:
-
-* Design Patterns
-* Node.js
-* php
-* patternlab
-* Templating 
-* Prototyping
-* UX
-* Testing
 
 ### Core Skills
 

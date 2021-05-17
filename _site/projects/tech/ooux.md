@@ -7,7 +7,7 @@ eleventyNavigation:
   key: ooux
   title: 'OOUX and Object Mapping'
   parent: tech
-  order: 2
+  order: 50
 tags:
   - seminar
   - tech
@@ -61,16 +61,6 @@ At the end of this training you will be able to:
 
 
 ## Skills, Knowledge, Behaviours and Values
-
-### Technical Skills
-
-This workshop is designed to develop the following technical skills:
-
-* Planning
-* OOP
-* Design Patterns
-* UX
-* Testing
 
 ### Core Skills
 

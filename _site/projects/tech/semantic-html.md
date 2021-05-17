@@ -4,57 +4,50 @@ title: 'Automation'
 sidebar: tech
 summary: 
 eleventyNavigation:
-  key: atomic
-  title: 'Automation'
+  key: semantic-html
+  title: 'Semantic HTML'
   parent: tech
-  order: 90
+  order: 220
 tags:
   - seminar
   - tech
-  - automation
+  - html
 ---
 
-# Automation
-Last reviewed **25 September 2020** by **Alex Seymour**
+# Semantic HTML
+Last reviewed **10 April 2021** by **Crispin Read**
 
-## Description
-This lesson is structured around what automation is and has an introduction to tools that can be used to automate parts of a process or tools that will help a developer be more efficient.
+This session explains why using semantic HTML is good for SEO robots, developers and accessibility. The learners will be shown some facts about disability and have accessibility explained to them
 
-### Why this is important
-Explain why learning this is useful in the working environment.
+## **Why this is important**
 
-## Outcomes
+1/4 people are affected by a disability. The web isn’t meant to be exclusive, writing semantic HTML means all software/ hardware created to assist people with disabilities has a like codebase to work on.
 
-At the end of this training you will be able to:
-  1. Understand this concept
-  1. Have knowledge of a few tools available the could start using immediately
+## **Outcomes**
 
-## Learner Requirements
-Before starting this session you will need:
-  1. A computer with access to terminal (windows machine will require putty)
-  1. A development environment on their computer.
+Following this training you will be able to: Understand some of the issues disabled users have when using the internet and what you can do as a developer to help provide a solution.
 
-## Outline
-An overview of the session should mirror slide deck
-  1. Intro to topic
-  1. Examples of automation
-  1. Explainations of each type of automation
-  1. Practical tasks to show each student how the tools work.
+## **Learner Requirements**
 
-## Tasks
-To be completed as part of this traiing session
-  1. https://www.npmjs.com/ - NPM, basic tutorial
-  1. https://getcomposer.org/ - Composer, basic tutorial
-  1. https://reactjs.org/tutorial/tutorial.html - Creating a react app with NPM
-  1. https://gulpjs.com/ - Adding gulp compiler to your dev environment
-  1. https://wppb.me/ - Online tool that creates a class wordpress plugin from a template
-  1. https://github.com/ahmadawais/create-guten-block - NPX tool that creates a gutenberg wordpress component
+N/A
 
+## **Outline**
 
-## Resources / Reference
+1. What does Semantic HTML mean?
+2. What are the benefits of semantic HTML?
+3. Accessibility
+4. Web standards
+5. Tasks
 
-  1. Slides: [Intro Slides on Google Drive](https://docs.google.com/presentation/d/1v3mYZnzO-H62539ZjulyqMeWtF5suVJAQyQHZBE4S3s/edit#slide=id.g602cb96396_3_0)
+## **Tasks**
 
+### **Mandatory**
+
+[Semantic HTML challenge ]()
+
+## Skills, Knowledge, Behaviours and Values
+
+### Technical Skills
 
 ## Skills, Knowledge, Behaviours and Values
 
@@ -62,12 +55,16 @@ To be completed as part of this traiing session
 
 This workshop is designed to develop the following from our **core skills** directive
 
-* Estimation
-* Prioritisation
-* Presentation
 * Communication
+* Presentation
+* Logic
+* Problem Solving
+* Reflection
+* Research
+* Learning from failure
 * Teamwork
 * Empathy
+
 
 ### Apprenticeship Standard
 

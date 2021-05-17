@@ -7,7 +7,7 @@ eleventyNavigation:
   key: debugging
   title: 'Debugging'
   parent: tech
-  order: 2
+  order: 120
 tags:
   - seminar
   - tech
@@ -64,25 +64,20 @@ At the end of this training you will be able to:
 
 ## Skills, Knowledge, Behaviours and Values
 
-### Technical Skills
-
-This workshop is designed to develop the following technical skills:
-
-* JavaScript
-* php
-* debugging
-* Testing
-
 ### Core Skills
 
 This workshop is designed to develop the following from our **core skills** directive
 
-* Estimation
-* Prioritisation
-* Presentation
 * Communication
+* Estimation
+* Summarisation
+* Presentation
+* Abstraction
+* Problem Solving
+* Reflection
+* Research
+* Learning from failure
 * Teamwork
-* Empathy
 
 ### Apprenticeship Standard
 

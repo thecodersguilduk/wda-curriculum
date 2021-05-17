@@ -7,7 +7,7 @@ eleventyNavigation:
   key: ucd
   title: 'UCD'
   parent: tech
-  order: 2
+  order: 60
 tags:
   - seminar
   - tech

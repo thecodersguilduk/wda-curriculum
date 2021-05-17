@@ -7,57 +7,15 @@ eleventyNavigation:
   key: mvp
   title: 'MVP'
   parent: tech
-  order: 2
+  order: 40
 tags:
   - seminar
   - tech
   - mvp
   - planning
 ---
-# Lesson Plan Template
-Last reviewed **07 January 2020** by **Crispin Read**
+# Defining an MVP (Minimum Viable Product)
+Last reviewed **07 January 2021** by **Crispin Read**
 
 ## Description
-An overview of the subject material.
-
-### Why this is important
-Explain why learning this is useful in the working environment.
-
-## Outcomes
-
-At the end of this training you will be able to:
-  1. Understand this concept
-  1. Do this practical thing
-  1. Use this tool
-
-## Learner Requirements
-Before starting this session you will need:
-  1. Previous session
-  1. Treehouse track
-
-## Outline
-An overview of the session should mirror slide deck
-  1. Project planning
-  1.
-
-## Tasks
-To be completed as part of this traiing session
-  1. Link to Glitch
-  1. Link to repo on GitHub
-
-### Further Tasks
-Additional to the training session, to be completed in apprentices own time (non mandetory).
-  1. Additional versions of session tasks for your project
-  1. Additional versions of session tasks for something at work
-  1. Link to challenge repo on GitHub
-
-## Resources / Reference
-
-  1. Slides: [Intro Slides on Google Drive](#)
-  1. Demo: [Demo on YouTube](#)
-  1. Article: [Blog post](#)
-
-## Trainer Resources
-
-  1. [Completed code challenge](#)
-  1. [Training notes](#)
+This session is under development and will be updated here soon, if you would like to see the docs in dev, please contact us through Slack.

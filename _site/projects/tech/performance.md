@@ -7,14 +7,14 @@ eleventyNavigation:
   key: performance
   title: 'Performance'
   parent: tech
-  order: 2
+  order: 130
 tags:
   - seminar
   - tech
   - performance
 ---
 # Performance
-Last reviewed **13 November** by **Alex Seymour**
+Last reviewed **13 November 2020** by **Alex Seymour**
 
 ## Description
 In this session we will look at website performance, what it means and why it is important. We'll also be looking at some of the tools we can use to measure performance and what we should be looking to improve.
@@ -79,20 +79,6 @@ At the end of this training you will be able to:
 1. Tutorial: [Setting up custom Audits with Lighthouse](https://www.aymen-loukil.com/en/blog-en/google-lighthouse-custom-audits/)
 2. 
 ## Skills, Knowledge, Behaviours and Values
-
-### Technical Skills
-
-This workshop is designed to develop the following technical skills:
-
-* JavaScript
-* JAMStack
-* Static Site Generators
-* API
-* Json
-* Templating 
-* Data Storage
-* UX
-* Testing
 
 ### Core Skills
 

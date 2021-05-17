@@ -4,70 +4,69 @@ title: 'Automation'
 sidebar: tech
 summary: 
 eleventyNavigation:
-  key: atomic
-  title: 'Automation'
+  key: functions-control-flow
+  title: 'Functions and Control Flow'
   parent: tech
-  order: 90
+  order: 190
 tags:
   - seminar
   - tech
-  - automation
+  - functions
+   - control flow
 ---
 
-# Automation
+# Functions and Control Flow
 Last reviewed **25 September 2020** by **Alex Seymour**
 
 ## Description
-This lesson is structured around what automation is and has an introduction to tools that can be used to automate parts of a process or tools that will help a developer be more efficient.
+This session learners will be taught about how to write a function in Javascript. The learners will also have to call the function to make it run. They will be introduced to control flow and how to use logic inside of a function to return an output.
 
-### Why this is important
-Explain why learning this is useful in the working environment.
+## **Why this is important**
 
-## Outcomes
+All functional languages follow similar rules, this session educates the learners on how to pass arguments to a function and what logic to apply to those arguments in order to return something back to the process. Understanding control flow is a huge part of the job, the learners will be taught what logic is available to them whilst problem solving.
 
-At the end of this training you will be able to:
-  1. Understand this concept
-  1. Have knowledge of a few tools available the could start using immediately
+## **Outcomes**
 
-## Learner Requirements
-Before starting this session you will need:
-  1. A computer with access to terminal (windows machine will require putty)
-  1. A development environment on their computer.
+Following this training you will be able to: Create functions in javascript, pass arguments to the function, apply logical code to the arguments passed in order to return something from the function.
 
-## Outline
-An overview of the session should mirror slide deck
-  1. Intro to topic
-  1. Examples of automation
-  1. Explainations of each type of automation
-  1. Practical tasks to show each student how the tools work.
+## **Learner Requirements**
 
-## Tasks
-To be completed as part of this traiing session
-  1. https://www.npmjs.com/ - NPM, basic tutorial
-  1. https://getcomposer.org/ - Composer, basic tutorial
-  1. https://reactjs.org/tutorial/tutorial.html - Creating a react app with NPM
-  1. https://gulpjs.com/ - Adding gulp compiler to your dev environment
-  1. https://wppb.me/ - Online tool that creates a class wordpress plugin from a template
-  1. https://github.com/ahmadawais/create-guten-block - NPX tool that creates a gutenberg wordpress component
+1. VS code
+1. Github desktop / Git CLI
 
+## **Outline**
 
-## Resources / Reference
+1. Recap Variables.
+2. Functions.
+3. Arguments.
+4. Returning Values.
+5. Demo
+6. Global/ Local Variables
+7. Control Flow
+8. Tasks
 
-  1. Slides: [Intro Slides on Google Drive](https://docs.google.com/presentation/d/1v3mYZnzO-H62539ZjulyqMeWtF5suVJAQyQHZBE4S3s/edit#slide=id.g602cb96396_3_0)
+## **Tasks**
+
+### **Mandatory**
+
+1. The learners will have a series of JS challenges to complete alongside the demos
+2. The learners will be given a JS challenge to complete.
 
 
 ## Skills, Knowledge, Behaviours and Values
+
 
 ### Core Skills
 
 This workshop is designed to develop the following from our **core skills** directive
 
-* Estimation
-* Prioritisation
 * Presentation
-* Communication
-* Teamwork
-* Empathy
+* Logic
+* Problem Solving
+* Reflection
+* Research
+* Learning from failure
+
 
 ### Apprenticeship Standard
 

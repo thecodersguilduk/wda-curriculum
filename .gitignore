@@ -7,3 +7,4 @@ _site/css/*.css
 _site/css/*.css.map
 _site/js/script.js
 .vscode/
+package-lock.json

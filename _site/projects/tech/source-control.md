@@ -4,10 +4,10 @@ title: 'Source Control'
 sidebar: tech
 summary: 
 eleventyNavigation:
-  key: source
+  key: source-control
   title: 'Source Control'
   parent: tech
-  order: 2
+  order: 150
 tags:
   - seminar
   - tech

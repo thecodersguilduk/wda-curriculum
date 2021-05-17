@@ -4,70 +4,73 @@ title: 'Automation'
 sidebar: tech
 summary: 
 eleventyNavigation:
-  key: atomic
-  title: 'Automation'
+  key: pseudocode
+  title: 'Pseudocode'
   parent: tech
-  order: 90
+  order: 180
 tags:
   - seminar
   - tech
-  - automation
+  - js
 ---
 
-# Automation
-Last reviewed **25 September 2020** by **Alex Seymour**
+# Pseudocode
+Last reviewed **02 March** by **Alex Seymour**
 
 ## Description
-This lesson is structured around what automation is and has an introduction to tools that can be used to automate parts of a process or tools that will help a developer be more efficient.
+This session learners will be introduced to the concept of Pseudocode. The learners will also be taught about the importance of comments and how to write comments in HTML, CSS and JS.
 
-### Why this is important
-Explain why learning this is useful in the working environment.
+## **Why this is important**
 
-## Outcomes
+Comments are breadcrumbs for other developers or the same developer in the future when they come back to the project. Pseudocode is great for planning and troubleshooting code before you have written it. You will be able to write your code with confidence if you have already prepared the Pseudocode for the job.
 
-At the end of this training you will be able to:
-  1. Understand this concept
-  1. Have knowledge of a few tools available the could start using immediately
+## **Outcomes**
 
-## Learner Requirements
-Before starting this session you will need:
-  1. A computer with access to terminal (windows machine will require putty)
-  1. A development environment on their computer.
+Following this training you will be able to: Write concise and meaningful comments in their code. Plan the code for their projects writing pseudocode.
 
-## Outline
-An overview of the session should mirror slide deck
-  1. Intro to topic
-  1. Examples of automation
-  1. Explainations of each type of automation
-  1. Practical tasks to show each student how the tools work.
+## **Learner Requirements**
 
-## Tasks
-To be completed as part of this traiing session
-  1. https://www.npmjs.com/ - NPM, basic tutorial
-  1. https://getcomposer.org/ - Composer, basic tutorial
-  1. https://reactjs.org/tutorial/tutorial.html - Creating a react app with NPM
-  1. https://gulpjs.com/ - Adding gulp compiler to your dev environment
-  1. https://wppb.me/ - Online tool that creates a class wordpress plugin from a template
-  1. https://github.com/ahmadawais/create-guten-block - NPX tool that creates a gutenberg wordpress component
+VS code
 
+Github desktop
 
-## Resources / Reference
+## **Outline**
 
-  1. Slides: [Intro Slides on Google Drive](https://docs.google.com/presentation/d/1v3mYZnzO-H62539ZjulyqMeWtF5suVJAQyQHZBE4S3s/edit#slide=id.g602cb96396_3_0)
+1. Comments and why we use them.
+2. How to write comments in HTML, CSS and JS
+3. Tasks
+4. Pseudocode
+5. Planning
 
+## **Tasks**
+
+### **Mandatory**
+
+1. Adding comments to code from previous lessons.
+2. Write Pseudocode for some JS challenges.
+
+### **Additional**
+
+1. Write the JS for the JS challenges.
+
+## **Resources / Reference**
+
+N/A
 
 ## Skills, Knowledge, Behaviours and Values
+
 
 ### Core Skills
 
 This workshop is designed to develop the following from our **core skills** directive
 
-* Estimation
-* Prioritisation
 * Presentation
-* Communication
-* Teamwork
-* Empathy
+* Logic
+* Problem Solving
+* Reflection
+* Research
+* Learning from failure
+
 
 ### Apprenticeship Standard
 
@@ -93,5 +96,3 @@ This workshop will encourage the development of the following from the [Software
  * K3 - Understands how teams work effectively to produce software and contributes appropriately.
  * K4 - Understands and applies software design approaches and patterns and can interpret and implement a given design, compliant with security and maintainability requirements.
  * K5 - Understands and responds to the business environment and business issues related to software development.
-
-
