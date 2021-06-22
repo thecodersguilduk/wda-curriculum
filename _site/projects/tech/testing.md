@@ -16,7 +16,7 @@ tags:
 
 # Introduction to Testing
 
-Last reviewed **13 Feb 2021** by **Crispin Read**
+Last reviewed **22 Jun 2021** by **Gareth Midwood**
 
 ## Description
 
@@ -33,23 +33,6 @@ At the end of this training you will be able to:
 ## Learner Requirements
 
 1. Understanding of front-end web development
-
-## Outline
-
-1. What Testing is
-1. What Testing isn't
-1. Types of Testing
-1. Creating a Test Plan
-   1. Tools
-   1. Audience
-   1. Scope
-   1. Support levels
-1. How to report
-
-## Tasks
-
-1. Add testing terms to glossary
-1. Create Test plan for your blog
 
 ### Further Tasks
 
