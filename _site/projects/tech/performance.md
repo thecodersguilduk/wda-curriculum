@@ -16,7 +16,7 @@ tags:
 
 # Performance
 
-Last reviewed **13 November 2020** by **Alex Seymour**
+Last reviewed **13 July 2021** by **Gareth Midwood**
 
 ## Description
 
@@ -36,43 +36,6 @@ At the end of this training you will be able to:
 ## Learner Requirements
 
 1. A site to audit for takeaway task
-
-## Outline
-
-1. What does performance mean?
-1. Why is it important?
-   - Conversion
-   - Visibility
-   - Usability
-1. Ways to assess Performance
-   - Pingdom
-   - Yslow
-   - Lighthouse
-1. 12 techniques
-   - CDN
-   - Hosting
-   - Images
-   - Plugins/Modules
-   - Minimising requests
-   - Caching
-   - Compression
-   - Database optimisation
-   - Webfonts
-   - 404 errors
-   - Redirects
-   - Prefetching
-1. Performance Budget
-
-## Tasks
-
-### During Training
-
-1. Research techniques for improving performance
-
-### After Training
-
-1. Conduct a performance audit on a site (or sites)
-1. Implement changes from the audit(s)
 
 ## Resources / Reference
 
