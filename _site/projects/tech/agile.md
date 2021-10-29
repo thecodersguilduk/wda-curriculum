@@ -14,7 +14,7 @@ tags:
   - agile
 ---
 # Agile vs Waterfall
-Last reviewed **12 Jan 2021** by **Crispin Read**
+Last reviewed **27 Oct 2021** by **Gareth Midwood**
 
 ## Description
 In this session we will be talking about Agile. We'll learn about the theory behind agile as well as common practical applications of agile practise in the workflow - in particular SCRUM and Kanban.
@@ -32,23 +32,25 @@ At the end of this training you will be able to:
 
 ## Outline
 
-1. What is Agile
-2. SDLC
-3. Waterfall Vs Agile
-4. Agile Manifesto
-5. Iterative working
-6. Practical Agility
+1. SDLC
+2. Agile Manifesto
+3. What is Agile?
+4. Practical Agility
+5. Agile vs Waterfall
+6. Iterative working
 7. Working in Sprints
-8. Team velocity
-9. Intro to SCRUM
-10. Intro to Kanban
+8. Estimation
+9. Team velocity
+10. User Stories
+11. Intro to SCRUM
+12. Intro to Kanban
+
 
 ## Tasks
 
 ### During Training
-1. Coin Flip
-2. Paper Cups
-3. Paper Hats
+1. Planning Poker
+2. Writing User Stories
 
 ### After Training
 Blog Post Suggestions
@@ -60,7 +62,7 @@ Blog Post Suggestions
 
 ## Resources / Reference
 
-1. [Intro Slides on Google Drive](https://docs.google.com/presentation/d/1odm65r_-DFXVs5JZNkRQPY5VA8-j9_ntRhMYvEPp8bY/edit#slide=id.g21252cd8e4_0_35)
+1. [Intro Slides on Google Drive](https://docs.google.com/presentation/d/1kY_7pxU4nrkX3uG8jVGPyFhpSsqA2tbteIBmUwYdzgk/edit?usp=sharing)
 2. [Agile Manifesto](http://agilemanifesto.org/principles.html)
 
 
@@ -79,19 +81,23 @@ This workshop is designed to develop the following from our **core skills** dire
 
 This workshop will encourage the development of the following from the [Software Developer Level 4 Standard](https://www.instituteforapprenticeships.org/apprenticeship-standards/software-developer/)
 
-#### COMPETENCIES (Skills)
- * C7 - Analysis: can understand and create basic analysis artefacts, such as user cases and/or user stories.
- * C9 - Development lifecycle: can operate at all stages of the software development lifecycle, with increasing breadth and depth over time with initial focus on build and test.
-
-#### BEHAVIOURS 
- * B3  - Ability to work independently and to take responsibility.
- * B7  - Ability to communicate effectively in a variety of situations.
- * B8  - Maintain productive, professional and secure working environment.
+#### Behaviours 
+ * B01: Works independently and takes responsibility.
+ * B03: Maintains a productive, professional and secure working environment
+ * B04: Works collaboratively with a wide range of people in different roles, internally and externally, with a positive attitude to inclusion & diversity
+ * B07: Communicates effectively in a variety of situations to both a technical and nontechnical audience
+ * B08: Shows curiosity to the business context in which the solution will be used
 
 #### Knowledge
- * K1 - Understands and operates at all stages of the software development lifecycle.
- * K2 - Understands the similarities and differences (taking into account positives and negatives of both approaches) between agile and waterfall software development methodologies 
- * K3 - Understands how teams work effectively to produce software and contributes appropriately.
+ * K01: all stages of the software development life cycle (what each stage contains, including the inputs and outputs)
+ * K02: roles and responsibilities within the software development lifecycle (who is responsible for what) 
+ * K03: the roles and responsibilities of the project life cycle within your organisation, and your role
+ * K05: the similarities and differences between different software development methodologies, such as agile and waterfall.
+ * K06: how teams work effectively to produce software and how to contribute appropriately
+
+#### Skills (Competencies)
+ * S09: create analysis artefacts, such as use cases and/or user stories
+ * S15: communicate software solutions and ideas to technical and non-technical stakeholders
 
 
 
